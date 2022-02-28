@@ -1,0 +1,1094 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the examination, tryall, and sufferings of James Nayler in the cities of London and Westminster, and his deportment under them. With the copies of sundry petitions and other papers, delivered by severall persons to the Lord Protector, the Parliament, and many particular Members thereof, in his behalf. With divers remarkable passages (relating thereto) before his journey to Bristol, whither he is now gone towards the filling up the measure of his sufferings.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 158 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95098</idno>
+            <idno type="STC">Wing T2789</idno>
+            <idno type="STC">Thomason E899_6</idno>
+            <idno type="STC">ESTC R204821</idno>
+            <idno type="EEBO-CITATION">99864284</idno>
+            <idno type="PROQUEST">99864284</idno>
+            <idno type="VID">116509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116509)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 135:E899[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the examination, tryall, and sufferings of James Nayler in the cities of London and Westminster, and his deportment under them. With the copies of sundry petitions and other papers, delivered by severall persons to the Lord Protector, the Parliament, and many particular Members thereof, in his behalf. With divers remarkable passages (relating thereto) before his journey to Bristol, whither he is now gone towards the filling up the measure of his sufferings.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>[4], 8, 15-42, 33-49, 40-42, 49-60 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A²  B-E⁴ F²  ² F-G⁴ H²  ² H⁴ I² .</note>
+                  <note>Quires ² F-G⁴ H²  are an expanded version of "Copies of some few of the papers given into the House of Parliament in the time of James Naylers tryal there, which began the fifth of December, 1656" (Wing C6080A).</note>
+                  <note>Annotation on Thomason copy: "London Jan: 14 1656."; the 7 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naylor, James, 1617?-1660 --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+               <term>Persecution --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Joe Kilduff</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Joe Kilduff</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:116509:1" rendition="simple:additions"/>
+A True NARRATIVE OF The <hi>Examination, Tryall,</hi> and <hi>Sufferings of James Nayler</hi> in the Cities of <hi>London</hi> and <hi>Weſtminiſter,</hi> and his deportment under them.</p>
+            <p>With the Copies of ſundry Peti<g ref="char:EOLhyphen"/>tions and other Papers, delivered by ſeverall Perſons to the <hi>Lord Protector,</hi> the <hi>Parliament,</hi> and many particular Members thereof, in his behalf. With divers remarkable Paſſages (relating thereto) before his Journey to <hi>Briſtol,</hi> whither he is now gone to<g ref="char:EOLhyphen"/>wards the filling up the meaſure of his Sufferings.</p>
+            <q>
+               <bibl>Eſth. 3. 8.</bibl> 
+               <p>
+                  <hi>And Haman ſaid unto King Ahaſuerus, There is a certain people ſcattered abroad, and diſperſed among the people in all the Provinces of thy Kingdom; And their Lawes are divers from all people; neither keep they the Kings Laws. Therefore it is not for the Kings profit to ſuffer them.</hi>
+               </p>
+            </q>
+            <p>Printed in the Year, 1657.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:116509:2"/>
+            <head>To the truly Chriſtian Readers.</head>
+            <p>GReat is the enmitie between the two Seeds, that of the Woman, and that of the Serpent. A Truth, which though every Chriſtian doth experiment in himſelf, in his meaſure and degree; yet it is then rendred moſt remarka<g ref="char:EOLhyphen"/>ble, when the appearances of Chriſt are moſt ſignal, and carry a greater diſagreement with fleſh and blood, and the glories of the firſt Creation. The reaſon is this, the natural man having eſcaped the groſſer pollutions of the World, and decking himſelf with the knowledge of Chriſt Jeſus after the Fleſh, and the litterall underſtanding of the Scripture, is whetted thereby with greater zeale and fury to oppoſe the miniſtration of Chriſt in the Spirit, and his exſertions of himſelf in that ſimplicity, innocencie, and ſelfdenyall, which are proper only to this diſpenſation. The legall Spirit is filled with indignation to be fo farr left behind, yea to be in danger of loſing all, by this ſpirituall birth of the Child Jeſus in the Heart, as <hi>Herod</hi> was at the apprehenſion of his loſse in the outward, upon the relation of the naturall birth.</p>
+            <p>This was the ground of the ſufferings of the Prophets, of Chriſt himſelf, and many of the Saints ſince that time; whe<g ref="char:EOLhyphen"/>ther this conſideration obtaine not in the preſent caſe of <hi>James Nayler,</hi> upon the peruſall of this enſuing Trea<g ref="char:EOLhyphen"/>tiſe, no doubt you will receive full ſatisfaction.</p>
+            <p>'Tis an acquieſcence to ſome Spirits, that they bore their Teſtimonie againſt it, and though their endeavours did not produce their deſired effect, yet having diſcharged their con<g ref="char:EOLhyphen"/>ſciences, as in the ſight of the Lord, and reſting in his will, they ſhall not loſe their reward.</p>
+            <p>Who knows how neceſſary ſufferings are for the Saints? yea how great a meaſure of them is yet behind? Gird up
+<pb facs="tcp:116509:3"/>
+therefore the loyns of your minds, and receive an alarum from the hand of the Lord to that ſelf denyal, and patience in which you are to prſſeſse your ſouls untill the Lord come.</p>
+            <p>It is not denyed, but a Saint may be ſubject to many Temptations; 'twas the priviledge of Chriſt alone not to bee overcome by them; yet when the True Judge appeares, he will embrace his own ſeed; and paſse ſentence, not according to occaſional diverſions, but according to the conſtant te<g ref="char:EOLhyphen"/>nour of the integrity and uprightneſſe of our ſpirits in his fight.</p>
+         </div>
+      </front>
+      <body>
+         <div type="committee_report">
+            <pb n="1" facs="tcp:116509:3"/>
+            <head>A REPORT FROM THE COMMITTEE, TO WHOM The Examination of <hi>James Nayler,</hi> Blaſphemer, and other Miſdemeanors were referr'd.</head>
+            <opener>Reſolv'd,</opener>
+            <p>THat the matter of Fact, together with the parti<g ref="char:EOLhyphen"/>cular Reſolutions of this Committee thereupon, bee reported to the Houſe.</p>
+            <p>Firſt, I ſhall give you the ſhort Hiſtory of his Life, as the Committee had it from his owne mouth: He ſaith he was born in the Pariſh of <hi>Ardiſloe,</hi> neer <hi>Wakefield</hi> in <hi>Yorkſhire,</hi> where he lived 22, or 23. yeers, till he was mar<g ref="char:EOLhyphen"/>ried (according to the world) as he expreſſed it. Then he removed into the Pariſh of <hi>Wazefield,</hi> where he continued
+<pb n="2" facs="tcp:116509:4"/>
+till the laſt Wars began; during which time he was under ſeveral Commands, and at laſt was Quartermaſter in Major General <hi>Lamberts</hi> Troop; in which Service he continued till diſabled by ſickneſs in <hi>Scotland,</hi> and ſo retired to his own home; about which time he was a Member of an Inde<g ref="char:EOLhyphen"/>pendant Church at <hi>Horbery</hi> in <hi>Yorkſhire,</hi> of which Church Mr. <hi>Christopher Marſhal</hi> was Paſtor; &amp; by the ſame Church ſince caſt out <note n="a" place="margin">If he was caſt out, it was not till ſome yeers after he had withdrawn from them, for their wanton and unchriſti<g ref="char:EOLhyphen"/>an carriage, eſ<g ref="char:EOLhyphen"/>pecially of <hi>Christopher Marſhal</hi> their Paſtor; which things he had charged upon them, and gi<g ref="char:EOLhyphen"/>ven them in writing under nine particu<g ref="char:EOLhyphen"/>lars, proving their practice contrary to Scripture, but never yet recei<g ref="char:EOLhyphen"/>ved a line from them of any crime, as he declared before the Committe; and how doth this prove him an Impoſture, &amp;c.</note> (as himſelf confeſſeth he hath heard) <note n="b" place="margin">From others, but nor from them.</note> by which Church he was charged as guilty of Blaſphe<g ref="char:EOLhyphen"/>my, <note n="c" place="margin">Which Blaſ<g ref="char:EOLhyphen"/>phemy was, That he had affirmed in a book, Juſtification by the gift of Gods Righ<g ref="char:EOLhyphen"/>teouſneſs, which he proved from <hi>Rom.</hi> 5. which ſtopt their mouthes.</note> and uncivil and wanton carriage <note n="d" place="margin">But nothing proved further then common ſalutations, which then were not accounted evil, being about ſeven yeers ſince, and before he ſaw the vanity of thoſe cuſtomes.</note> with one Mrs. <hi>Rop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> a married Woman, as that ſhe ſhould ſit on his knee, and kiſs him before divers other perſons; <note n="e" place="margin">So it ſeems it was not done in a corne.</note> and that it was his Opinion, He might lye with any Woman that was of his Judgement. <note n="f" place="margin">Which he denyed before the Committee, as utterly falſe, be<g ref="char:EOLhyphen"/>ing never his Judgement.</note> And then after ſome time, <note n="g" place="margin">Which time was this laſt Summer, being ſo many yeers after.</note> went to viſit the quakers in <hi>Cornwall,</hi> and by his way was by Major <hi>Saunders</hi> 
+               <note n="h" place="margin">This is falſe, for Major <hi>Saunders</hi> gave him liberty to go on his journey; but he was brought back about 20. miles from thence, and committed by a Judge, and fi<g ref="char:EOLhyphen"/>ned 20. marks for not putting off his hat.</note> committed to the Common-Goal in <hi>Exon,</hi> as a Vagrant. <note n="i" place="margin">Of which company few had bin Priſoners, as is intimated.</note> And thence he and his Companie being delivered <note n="k" place="margin">Muſt it be taken for granted becauſe alledged, when nothing is made appear that is evil?</note> by an Order from the Council. They travelling to <hi>Briſtol,</hi> in the way <hi>Nayler</hi> took upon him <note n="l" place="margin">What?</note> as was alledged <note n="m" place="margin">And four men, &amp; whats the reaſon they are not mentioned as wel as the women?</note> againſt him. And as he paſſed through <hi>Chewſtoke</hi> in the County of <hi>Sommerſet,</hi> towards <hi>Bristol,</hi> it is informed upon oath, certified by three Juſtices to the Committee, That ſtaying in that Towne one night, he was there in a Chamber with three Women <note n="n" place="margin">But was there not fourmen, and two women more in the room?</note> of his Company, leaning upon the bed with one of them
+<pb n="3" facs="tcp:116509:4"/>
+at night when the ſervant of the houſe left them. And in the morning the ſervant found <hi>Nay<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> on the bed with one of the Women, and the Curtaines drawn; and ſome of the Company <note n="p" place="margin">What evil was in this? if while he was on the bed, ſome of the reſt alſo were leaning upon ſome part of the bed, there being but one bed in the room, and they having ſit up all night.</note> wiſhed the ſervant to make no noiſe to a<g ref="char:EOLhyphen"/>wake them.</p>
+            <p>The way taken in this Report, will be,</p>
+            <p>Firſt, to give you the Articles charged againſt him.</p>
+            <p>Secondly, The Evidence, wherein there will be a little mention of the Examinations and Informations upon Oath taken at Briſtol; againſt which, becauſe there lies a ſeeming Objection, I ſhall firſt clear that upon the matter of Fact.</p>
+            <p>The Objection was, That they were not read again to the parties as is uſual in ſuch Caſes.</p>
+            <p>Anſwer: That two Witneſſes, both of more then ordi<g ref="char:EOLhyphen"/>nary good Repute, in that place were both put, and took Characters of the queſtions and anſwers there, and comparing their Notes, did both of them publikely avow to the Committee, as that which they were ready to depoſe, That every material paſſage was read unto the parties once or twice <note n="q" place="margin">I hats utter<g ref="char:EOLhyphen"/>ly falſe, for the Priſoners did not hear them read.</note> after they writ it down; and that they were the ſame which were offered to the Committee, atteſted under the Mayor of Briſtols hand to every of the ſaid Examinati<g ref="char:EOLhyphen"/>ons and Informations, and the City-Seal annexed to the whole. And beſides there is nothing in the ſaid Examinati<g ref="char:EOLhyphen"/>ons and Informations taken there, but what is generally more clearly made out upon their Examinations before the Committee.</p>
+            <p>Other Evidence will be from <hi>Naylers</hi> Examination, wherein is moſt of this whole matter, which was taken in Characters <note n="r" place="margin">You had done well to have given in his full An<g ref="char:EOLhyphen"/>ſwers in your Report, and not to pick what ye thought good, and to conceal the reſt.</note> by five of the Committee, who were appoin<g ref="char:EOLhyphen"/>ted to, and did compare their Notes.</p>
+            <p>Thirdly, the opinion of the Committee.</p>
+            <p>The whole Fact will fall under one of theſe two Arti<g ref="char:EOLhyphen"/>cles.</p>
+            <p>Firſt, <hi>James Nayler</hi> did aſſume <note n="a" place="margin">How aſſume! becauſe he was ſilent, and ſub<g ref="char:EOLhyphen"/>mitted to the will of his Fa<g ref="char:EOLhyphen"/>ther?</note> the geſture, words, ho<g ref="char:EOLhyphen"/>nour, worſhip, and miracles of our bleſſed <note n="b" place="margin">The Phari<g ref="char:EOLhyphen"/>ſees who perſe<g ref="char:EOLhyphen"/>cuted the Pro<g ref="char:EOLhyphen"/>phets life, yet garniſhed their Sepulchress ſo do many garn<g ref="char:EOLhyphen"/>iſh the name of Chriſt with titles, but per<g ref="char:EOLhyphen"/>ſecure his na<g ref="char:EOLhyphen"/>ture.</note> Saviour.</p>
+            <p>
+               <pb n="4" facs="tcp:116509:5"/>
+Secondly, The names and incommunicable attributes and titles <note n="c" place="margin">Sec his laſt Anſwer to the Committee, &amp; how falſe this Charge is, may appear thorow<g ref="char:EOLhyphen"/>out the whole Report.</note> of our bleſſed Saviour.</p>
+            <p>As to part of the firſt Article, That <hi>James Nayler</hi> riding through a Town in <hi>Summer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,</hi> his company ſpread their garments, and ſang Holy, Holy, before him; and alſo ſang the like at his entrance into <hi>Briſtol,</hi> 
+               <note n="d" place="margin">Is this his blaſphemy, to hear others praiſe the Lord? or that others in obe<g ref="char:EOLhyphen"/>dience to God go bare-head<g ref="char:EOLhyphen"/>ed? Is not this thing uſually practiſed a<g ref="char:EOLhyphen"/>mongſt, and to your ſelves? but what evil hath he done.</note> one going bare<g ref="char:EOLhyphen"/>headed before his horſe.</p>
+            <p>The evidence was, That <hi>Dorcas Erbury</hi> in her examina<g ref="char:EOLhyphen"/>tion before the Committee in the Painted Chamber confeſ<g ref="char:EOLhyphen"/>ed, That ſhe did ſpread garments before him; And <hi>Mar<g ref="char:EOLhyphen"/>tha Simmons</hi> in her examination at the ſame time ſaith, That thoſe garments that ſhe did ſpread, ſhe ſpread in obe<g ref="char:EOLhyphen"/>dience to the Lord. <note n="*" place="margin">But where's his blaſphemy, muſt be ſuffer becauſe they o<g ref="char:EOLhyphen"/>bey'd the Lord?</note> And <hi>Hanna Stranger</hi> being then alſo examined, Said ſhe threw two Handkerchiefs before him, which ſhe did becauſe he that is Lord of all command<g ref="char:EOLhyphen"/>ded <note n="e" place="margin">But <hi>Iames Nay<g ref="char:EOLhyphen"/>ler</hi> never com<g ref="char:EOLhyphen"/>manded her to do this thing, then where's his blaſphemy? is obedience to him that is Lord of all, yeelded by an<g ref="char:EOLhyphen"/>other, imputed to him for bla<g ref="char:EOLhyphen"/>ſphemy?</note> her ſo to do. And</p>
+            <p>
+               <hi>J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Stranger</hi> confeſſeth, That he ſaw others ſpread gar<g ref="char:EOLhyphen"/>ments before him in the way from <hi>Exon</hi> to <hi>Briſtol</hi> 
+               <note n="f" place="margin">Its not deny<g ref="char:EOLhyphen"/>ed; but where is the blaſphemy of the ſufferer?</note> And</p>
+            <p>
+               <hi>James Nayler</hi> himſelf confeſſeth <note n="g" place="margin">Is it blaſphemy to confeſs what hee ſaw others do?</note> (upon the queſti<g ref="char:EOLhyphen"/>on, whether garments were ſpread before him) that ſome clothes were caſt down, and afterwards that ſome gloves and other things.</p>
+            <p>The evidence for ſinging holy, holy, was thus.</p>
+            <p>
+               <hi>Dorcas Erbury</hi> in her Examination at <hi>Bristol,</hi> being then asked why ſhe paſſed along ſinging, Said ſhe did not do it, but they that did it, was commanded to do it; <note n="h" place="margin">How doth this evidence prove the ſufferer a blaſphemer?</note> and the Lord hath made it manifeſt that they were moved of the Lord to it; and being asked to whom they ſang? and whom they called the <hi>Holy one of Iſrail?</hi> ſhe ſaid, him th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t rode upon the horſe, <note n="i" place="margin">Suppoſe ſhe ſaid ſo, doth this make him a blaſphemer? what hath he done?</note> and ſhe would maintain it with her blood. And being examined by the Committee as to this part of the Examination, and adviſed to deny if it were falſe, yet did not deny it, though ſhe did ſome other part of that Examination.</p>
+            <p>
+               <pb n="5" facs="tcp:116509:5"/>
+               <hi>Martha Simmon</hi> being examined in the Painted Cham<g ref="char:EOLhyphen"/>ber, whether ſhe did ſing the words holy, holy, before the ſaid <hi>James Nayler,</hi> anſwered, It is my life to praiſe the Lord, whether he be before me, or from me, it is my life to praiſe the Lord. <note n="k" place="margin">Then this was not James Nayler.</note> And being asked whether ſhe heard any per<g ref="char:EOLhyphen"/>ſons ſing holy, holy, before the ſaid <hi>James Nayler,</hi> ſhe an<g ref="char:EOLhyphen"/>ſwered, It is our life to praiſe the Lord. <note n="l" place="margin">How is this become an of<g ref="char:EOLhyphen"/>fence to you? Or, how doth this prove him a blaſphemer.</note>
+            </p>
+            <p>
+               <hi>Hanna Stranger</hi> being examined in the painted Cham<g ref="char:EOLhyphen"/>ber, whether ſhe ſang the words holy, holy, anſwered, She could not well remember the words, but if ſhe did not ſing holy, holy, ſhe witneſſeth the holy of holies was riſen, which moved her ſo to do; <note place="margin">How doth her confeſsion of Chriſts Re<g ref="char:EOLhyphen"/>ſurrection, prove him a blaſphemer?</note> but ſaid further, She did not ſtand there to accuſe her ſelf. <note n="n" place="margin">And was this a crime to ſay ſo? Is not here the ſpirit of the perſecuting Courts got up again, that ſeeks matter from the accuſed to judge them by.</note>
+            </p>
+            <p>
+               <hi>James Nayler</hi> being examined by the Committee, whe<g ref="char:EOLhyphen"/>ther any ſang holy, holy, before him as he rode; anſwered, There were praiſes ſung to the Lord; <note n="o" place="margin">Doth not hee here acknow<g ref="char:EOLhyphen"/>ledg the prai<g ref="char:EOLhyphen"/>ſes ſung to the Lord? And is this blaſphemy that he did not forbid praiſes to be ſung to the Lord?</note> and being asked whether thoſe words holy, holy were ſung, anſwer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, that he heard thoſe words; and being asked as to the ſinging before him when he rode into <hi>Briſtol,</hi> anſwered, That there was a Pſalm ſung, ſuch a one as the Lord was pleaſed to give into the <note n="p" place="margin">Take notice.</note> hearts of them that ſang; and being asked as to the words of the Pſalm, whether they were not holy, holy, ſaid, It may be it was, very like it might be ſo.</p>
+            <p>And in his Examination at <hi>Briſtol,</hi> being asked why he came in there in ſuch an unuſual manner, two women lead<g ref="char:EOLhyphen"/>ing his horſe, <note n="q" place="margin">And what Law of God or man is here broken, or doth ſay that this is blaſphemy, to have his horſe led, and one to go barehead be<g ref="char:EOLhyphen"/>fore him, or to be accompani<g ref="char:EOLhyphen"/>ed with ſing<g ref="char:EOLhyphen"/>ing?</note> and ſinging, with one bare before him; ſaid, It was for the praiſes of his father, and that he may not refuſe any thing that is moved of the Lord; And that he did think <note n="r" place="margin">Did believe.</note> the father did command them to do it; and being there asked whom they meant by the word Holy, that they ſang, he anſwered, That they that ſang were all of age to anſwer for themſelves.</p>
+            <p>
+               <pb n="6" facs="tcp:116509:6"/>
+And this ſpeaks ſomething for the proving of another part of the firſt Article, vindicating one going bare-headed before him, and women leading his horſe, which is more fully proved by the Informations upon oath of <hi>George Wi<g ref="char:EOLhyphen"/>therly</hi> and <hi>Richard Hart,</hi> taken at <hi>Briſtol,</hi> before the Maior there, and certified as aforeſaid; and upon the confeſſion of one <hi>Thomas W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dlock</hi> before the ſaid Maior, who went bare headed before <hi>James Nayler,</hi> and ſaid he was moved by the ſpirit ſo to do. And <hi>James Nayler</hi> himſelf upon his examination by the Committee, when he was asked whether any went bare-headed before him as he went into <hi>Briſtol.</hi> anſwered, He did not know, he took little notice of it, but heard ſome ſay it was ſo; and being asked whether any women led his horſe, anſwered, There was a woman took hold of the Bridle of the horſe.</p>
+            <p>Reſolution of the Committee upon this whole evidence. The Committe were of opinion <note n="a" place="margin">A ſtrange o<g ref="char:EOLhyphen"/>pinion to take the thing to be proved that he aſſumed ſuch things, ſeeing he himſelf was ſilent, paſſing on his journey, acting no evil either againſt God or man, neither did re<g ref="char:EOLhyphen"/>quire any of theſe things to be done, only durſt not forbid what God mo<g ref="char:EOLhyphen"/>ved others to do.</note> that the firſt Article was proved.</p>
+            <p>One thing alſo being part of the matter of fact, wee think worthy your knowledge, though much ſtreſs <note n="b" place="margin">It ſeems you will paſs by no<g ref="char:EOLhyphen"/>thing you think hath any thing in it that might raiſe up evil thoughts; you had done juſtly had all been writ was ſaid by the Sufferer, to prove his inno<g ref="char:EOLhyphen"/>cencie.</note> will not be lain on it; And that is, that the deſcription of our Saviour by <hi>Pubaus Lemu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> to the Senate of Rome in wri<g ref="char:EOLhyphen"/>ting, (which is alſo imprinted) was taken upon one of <hi>James Naylers</hi> Attendance, which is alſo certified by the ſaid Major; And for <hi>Nayler,</hi> hair both colour and manner of wearing it, as alſo the faſhion of his beard, and feature, and perſon did much agree with that deſcription, which al<g ref="char:EOLhyphen"/>ſo was taken notice of by many of the Committee, how much he reſembled (as they apprehended with ſome affec<g ref="char:EOLhyphen"/>tation) the Picture uſually drawn for our Saviour <note n="a" place="margin">And to whom do you impute this fault, ſee<g ref="char:EOLhyphen"/>ing there was no art uſed either to the head, beard or feature, but was the work of the Creator. How do you here love your example, who count him the greateſt offender that God hath made moſt like him. Neither was the Letter forementioned known by the Suf<g ref="char:EOLhyphen"/>ferer to be amongſt any of his Company, till after it was taken from them, and ſo he told the Speaker when before them.</note>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:116509:6"/>
+That in divers anſwers he imitated our Saviour Jeſus Chriſt, uſing the ſame expreſſions <note n="b" place="margin">Are not his Expreſſions good, and fit to be uſed, where they are ſpoken in truth</note> that he did in one place; he ſaith, That he lived ſome weeks fifteen or ſixteen days, without any food or other ſuſtenance <note n="c" place="margin">This may be teſtified by di<g ref="char:EOLhyphen"/>vers witneſſes, yet is it no blaſ<g ref="char:EOLhyphen"/>phemy. How are your hearts hardned againſt the power of God? Had you known that Scripture, <hi>Mat.</hi> 4. 4 or the pow<g ref="char:EOLhyphen"/>er of God, it would not have bin counted an offence to ſee it fulfilled. Is not here that Scripture fulfil<g ref="char:EOLhyphen"/>led upon the Sufferer, Joh. 6 13. that faith, <hi>Theſe things will they do unto you, becauſe they know not the Father nor me.</hi>
+               </note>; and being asked, Wherewithall God fed him, if not with food; anſwered, Man liveth not by bread alone, but by every word which proceedeth out of the mouth of the Lord.</p>
+            <p>I ſhal here mention one remarkable one in his examina<g ref="char:EOLhyphen"/>tion at Briſtol; his expreſſion was, If they had known the Father, they ſhould know him alſo: And <hi>Nayler</hi> being examined by the Committee to this, whether that were his anſwer at Briſtol, he anſwered in theſe words, Truly I can ſay little of that, whether I did ſay it or no; but if I did ſay it there, it is true; for if any one do know the Father they ſhal know what I am, and where I live; and none can know my life further then they know the Father; for the Father is my life: none can know my life but they that know my Father <note n="d" place="margin">Is it become an offence to live the life of God? Had not the children of God their life hid with Chriſt in God? Read Coll. 3. 3.</note>; for he is my life. This I particularly mention, being commanded <note n="e" place="margin">And why not the reſt of his Anſwers, wherein his innocency might more fully have appeared; and yet here is nothing in this, or any other, that proves him either a blaſphemer or an offender.</note> by the Committee, who re<g ref="char:EOLhyphen"/>ſolved, <note n="*" place="margin">Reſolution of the Committee.</note> That this whole Anſwer <note n="f" place="margin">And why ſhould not his other Anſwers have been reported alſo, ſeeing you thought fit to que<g ref="char:EOLhyphen"/>ſtion him; and they that were to judge ought to have known the whole truth?</note> of <hi>James Nayler</hi> be reported to the Houſe.</p>
+            <p>Another part of this Article was, That he received the outward worſhip of being kneeled unto <note n="g" place="margin">This he denies to receive as to the outward man, though you required that from him to you in the Houſe at the Bar. Thus you condemn him who denies it as to himſelf, and gives it to the Lord, &amp; yet take it to your ſelves; Is this righteous judgment, or to do as you would be done by?</note> and having his feet kiſſed. <note n="h" place="margin">VVhat blaſ<g ref="char:EOLhyphen"/>phemy is in this, to kiſs the foot more then the hand, or any other part of the body? we have learnt greater love then this, who can lay down our lives for the brethren.</note> And for this the evidence was,</p>
+            <p>
+               <hi>Martha Simmons</hi> in her examination at Briſtol ſaid, She ought to worſhip him, but here denied. <note n="i" place="margin">If ſhe deny it, why is it reported as evidence? and if ſhe had confeſſed ſuch a thing, how doth that make him guilty of blaſphemy.</note>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:116509:7"/>
+And further the evidence went, that after his impriſon<g ref="char:EOLhyphen"/>ment at Briſtol, it appeared by the Information upon oath at Briſtol, to wit, of <hi>Thomas Terkins</hi> and <hi>Thomas Cols.</hi>
+            </p>
+            <p>
+               <hi>Thomas ergan</hi> informeth, that <hi>Dorcas Erbery</hi> fel down at <hi>Nayler's</hi> feet, and kiſſed his feet <note n="a" place="margin">If theſe things were true, what of<g ref="char:EOLhyphen"/>fence is com<g ref="char:EOLhyphen"/>mitted, did not the Saints do and ſuffer the ſame things Read 1 <hi>Sam.</hi> 25. 23, &amp;c. 2 <hi>Kings</hi> 4. 27, 37 &amp; <hi>Dan.</hi> 2. 46 <hi>Esth.</hi> 8. 3. <hi>Mat.</hi> 18 29. <hi>Luke</hi> 17. 16. <hi>Job</hi> 11. 32. <hi>Luke</hi> 8 41. <hi>Luke</hi> 7. 38, &amp;c. <hi>Iohn</hi> 13, 14, 15. And why ſhould any be offend<g ref="char:EOLhyphen"/>ed that the Saints life and practice be made manifeſt again in the world.</note> and the ſame even<g ref="char:EOLhyphen"/>ing one <hi>Alice Brock</hi> felton her knees before the ſaid <hi>Nayler,</hi> and <hi>Nayler</hi> put his hands upon her head, and ſaid, Stand faſt, &amp;c.</p>
+            <p>
+               <hi>Thomas Cole</hi> informeth, That the 25 of <hi>October Martha Simmons</hi> and <hi>Hanna Stranger</hi> being called out of Naylers room into their own lodging, they one after another knee<g ref="char:EOLhyphen"/>led before Nayler, and laid their heads on his knees, and he laid his hands on their heads, making a groaning noyſe within himſelf, and before they roſe from their knees he <note n="b" place="margin">Laying on of hands was ow<g ref="char:EOLhyphen"/>ned before the houſe; but croſſing of hands is denied</note> croſſed his hands over their heads. And <hi>Hanna Stranger</hi> at her examination before the Committee confeſſed, That ſhe kneeled at James Naylers feet and kiſsed them; and o<g ref="char:EOLhyphen"/>thers being demanded concerning theſe actions would give no anſwer. And</p>
+            <p>
+               <hi>James Nayler</hi> being examined whether any kneeled and kiſsed his feet, anſwered, that there might be ſuch things though he did not mind it, being things that he did not glo<g ref="char:EOLhyphen"/>ry in <note n="*" place="margin">Mark.</note>.</p>
+            <p>As for his doing of miracles particularly, <hi>Dorcas Erbery</hi> ſaith, that ſhe was dead <note n="c" place="margin">Is it blaſphe<g ref="char:EOLhyphen"/>my to raiſe from the dead?</note> in Exeter Goal two days, and that Nayler laid his hands upon her, and raiſed her, which ſhe affirmed in her examination at Briſtol, and did not de<g ref="char:EOLhyphen"/>ny when examined as to this by the Committee.</p>
+            <p>
+               <pb n="15" facs="tcp:116509:7"/>
+To which <hi>Naylor</hi> being examined whether <hi>Dorcas Er<g ref="char:EOLhyphen"/>bury</hi> was dead in <hi>Exon</hi> Goal, as in her examination, an<g ref="char:EOLhyphen"/>ſwered, If you ſpeak of ſuch a death as you may under<g ref="char:EOLhyphen"/>ſtand, ſhe was dead. Being further asked, how ſhe was dead in his underſtanding, anſwered, I ſhall ſay little of my ſelf in that thing. And being further asked, whether he raiſed her from the dead, anſwered, I can do nothing of my ſelf. Being asked, whether any other did raiſe her by his hands, and if he laid his hands upon her, anſwered. There is a power in me from above. And being demanded, whether he had ſuch a power as to raiſe from the dead, an<g ref="char:EOLhyphen"/>ſwered, I have ſaid before, I cannot bear witneſs of my ſelf in the thing. And being asked, who bore witneſs of him, anſwered, The Scriptures <note n="a" place="margin">If the Scriptures or any juſt Law of this Nation had been har<g ref="char:EOLhyphen"/>kned to, the Innocent would not thus have ſuf<g ref="char:EOLhyphen"/>fered cruel torments.</note> do bear witneſs to the power which is in me, which is everlaſting. And being de<g ref="char:EOLhyphen"/>manded, whether he raiſed from the dead by vertue of that power, anſwered, I can do nothing but what the power doth in me; and it is the ſame power whereof you reade in the Scriptures <note n="b" place="margin">Mark and take notice of this.</note> that hath raiſed the dead according to the meaſure of the power manifeſt.</p>
+            <p>And being asked, whether that power were manifeſt in ſuch a manner in him as to raiſe <hi>Dorcas Erbery</hi> from the dead, anſwered, I have ſaid, I ſhall not ſatisfie in words concerning the thing further, than onely this, That you may clearly underſtand that wherein <hi>Dorcas Erbery,</hi> or any elſe do attribute unto me, as to a Creature that hath beginning and ending, that I utterly deny <note n="a" place="margin">Mark what blaſphemy are in theſe words.</note>; but that that any ſee of God in me by the ſame ſpirit that revealed any thing to them, that I do not deny. This may ſerve at one word, for there cannot be a more abominable thing than to take from the Creator, and give to the Creature <note n="b" place="margin">Mark a<g ref="char:EOLhyphen"/>gain.</note> the ſame power which did raiſe from the dead, which you reade in the Scripture, the ſame Chriſt <note n="a" place="margin">Take no<g ref="char:EOLhyphen"/>tice he ſpeaks not of another Chriſt, but the ſome that was yeſterday, Heb. 13. 8.</note> the ſame anointing ac<g ref="char:EOLhyphen"/>cording to the meaſure of him is manifeſt in me, and not another. And being asked, if any prayed to Chriſtian him,
+<pb n="16" facs="tcp:116509:8"/>
+whether he did diſ-own it, anſwered, As a Creature I do diſown it <note n="c" place="margin">Take no<g ref="char:EOLhyphen"/>tice.</note>
+            </p>
+            <p>Theſe things, <note n="d" place="margin">What mat<g ref="char:EOLhyphen"/>ter of fact is in theſe things that is in the leaſt evil? or what the Scri<g ref="char:EOLhyphen"/>ptures do not own?</note> and divers others we have reported, as part of the matter of fact.</p>
+            <div type="article">
+               <head>Second Article.</head>
+               <p>That the ſaid <hi>James Nayler</hi> aſſumed <note n="a" place="margin">How aſſu<g ref="char:EOLhyphen"/>med, becauſe others write and ſpoke <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> what the Lord commanded them.</note> the name and the incommunicable attributes and titles of our bleſſed Sa<g ref="char:EOLhyphen"/>viour; as firſt,</p>
+            </div>
+            <div type="article">
+               <head>The faireſt of ten thouſand.</head>
+               <p>As for this, the evidence was in a Letter of <hi>Hanna Stran<g ref="char:EOLhyphen"/>ger,</hi> found about him at <hi>Briſtoll,</hi> the giving him the title of the faireſt of ten thouſand; which upon her examination at <hi>Briſtoll,</hi> and before the Committee, ſhe confeſſed ſhe wrote to him in her Letter. And <hi>James Naylor</hi> being ask<g ref="char:EOLhyphen"/>ed by the Committee, whether any ſuch title as the faireſt of ten thouſand had been given to him in any Writing or Letter, he anſwered, To what they did in the Letter, if they gave it to me as to the viſible, then I do deny it <note n="b" place="margin">Mark what is confeſſed, and what de<g ref="char:EOLhyphen"/>nied, and let the wiſe judge if the Scri<g ref="char:EOLhyphen"/>ptures ſpeak not the ſame things, 12 Cor. 4. 7. 10. and 2 Cor. 6 18. and 13. chap. and 15. 1 Cor. 6. 19. and ought not Chriſt to ſpeak, or be worſhipped in his Temple.</note>; but if they ſpeak it to that begotten of the Father in me, then I dare not deny it. And being willed to repeat that anſwer again, he ſaid, If they ſpeak it as to the viſible, as to that which is earthly, then I deny <note n="c" place="margin">Mark, his yea is amen.</note> any ſuch thing be<g ref="char:EOLhyphen"/>longing to me in that ſenſe: but if they ſpeak it to that which the Father hath begotten in me, then I dare nor de<g ref="char:EOLhyphen"/>ny it, becauſe that (as he ſaid) is beautifull <note n="*" place="margin">Where the moſt of that beauty is revealed by God amongſt ten thouſand, there is the faireſt of ten thouſand. This was his teſtimony before the Houſe.</note>, wherever it is begotten. And in his ſecond examination before the Committee, his anſwer was to the ſame effect <note n="d" place="margin">So he changeth not.</note>.</p>
+               <pb n="17" facs="tcp:116509:8"/>
+               <p>
+                  <label>Reſolution of the Committee.</label>
+                  <g ref="char:V">Ʋ</g>pon this evidence the Committee were of opinion, that <hi>James Naylor</hi> 
+                  <note n="a" place="margin">You ſhould not ſpend your opinion of things you know not; for he denies that <hi>James Naylor,</hi> (which is the viſible) to take theſe things upon him.</note> had aſſumed the title of The faireſt of ten thouſand.</p>
+            </div>
+            <div type="article">
+               <head>2. The only begotten Son of God.</head>
+               <p>And for that the evidence was, that <hi>Hanna Stranger</hi> in the ſaid Letter gave him that title. And being demanded whether he did aſſume that title, anſwered in theſe words; That there are many ſons <note n="b" place="margin">Mark this alſo you that are of an un<g ref="char:EOLhyphen"/>derſtanding heart.</note> beſides, yet the ſon of God I muſt witneſs, and dare not deny; <note n="c" place="margin">Was not this a direct anſwer, and ſufficient to all them that de<g ref="char:EOLhyphen"/>ſired to hear the truth.</note> the ſon of God I am, and dare not deny. And being often preſſed to give a di<g ref="char:EOLhyphen"/>rect anſwer whether he were the onely begotten <note n="d" place="margin">He that is a ſon o God, is he not the onely begot<g ref="char:EOLhyphen"/>ten of God? Doth any help God to beget his children, ſave himſelf alone? Reade Jam. 1. 5. Were you not wholly ignorant of the Scriptures, and power of God, you would not ſtumble at theſe things.</note> ſon of God, anſwered thus, I am the ſon of God, but I have many brethren. And again ſaid, I have many brethren, though ſome of them do not yet know me. And being ur<g ref="char:EOLhyphen"/>ged to confeſs or deny it, anſwered in theſe words, I have anſwered that I have given of my Father to ſpeak for the preſent unto that thing. Being asked, whether he were the onely begotten ſon of God, he anſwered <note n="a" place="margin">Hath he not well ſpoken? let him that is ſpiritual, judge.</note>, Thou haſt ſaid it. Which queſtion and anſwer being repeated to him as his anſwer, he anſwered, Do not enſnare <note n="b" place="margin">Saw he not their hearts?</note> the Inno<g ref="char:EOLhyphen"/>cent. And upon his examination, taken, certified, and at<g ref="char:EOLhyphen"/>teſted, as aforeſaid, being asked whether he be the onely begotten ſon of God, anſwered, That he was the ſon of God, and that the ſon of God was but one <note n="b" place="margin">Mark this.</note>
+               </p>
+               <p>But being examined by the Committee as to this part of his examination at <hi>Briſtoll</hi> 
+                  <note n="a" place="margin">Why did not they then at <hi>Briſtoll</hi> write down his true anſwer, and afterwards cauſe it to be read to them.</note>, he affirmed, that this was not his anſwer.</p>
+               <pb n="18" facs="tcp:116509:9"/>
+               <p>
+                  <label>Reſolution of the Committee:</label> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon this evidence the Committee were of opinion, that the title of the onely begotten ſon of God was given to</hi> James Naylor <note n="b" place="margin">To that which was vi<g ref="char:EOLhyphen"/>ſible he hath denied again and again: How is it that you cannot re<g ref="char:EOLhyphen"/>ceive the truth?</note> 
+                  <hi>And being demanded whether he aſſirmed that title, he did not deny it.</hi>
+               </p>
+            </div>
+            <div type="article">
+               <head> The Prophet of the moſt High:</head>
+               <p>This title we finde given him in a Letter to <hi>Naylor</hi> from one <hi>Jane Woodcock</hi> found about him at <hi>Briſtoll.</hi> And be<g ref="char:EOLhyphen"/>ing examined there upon that clauſe in the Letter, he an<g ref="char:EOLhyphen"/>ſwered, That he was the Prophet of the moſt high God.</p>
+               <p>And <hi>Martha Symmons</hi> upon her examination at <hi>Bri<g ref="char:EOLhyphen"/>ſtoll</hi> ſaid, There was a time when <hi>James Naylor</hi> was a true Prophet of the moſt high God, but now he is gone beyond, and is in the adminiſtration of Peace, and is the beloved of the Lord.</p>
+               <p>
+                  <hi>James Naylor</hi> being examined by the Committee, whe<g ref="char:EOLhyphen"/>ther he owned this title of the Prophet of the moſt high God, he anſwered, Yea, I am a Prophet of the moſt high God. And being preſſed to anſwer whether he were the Prophet, he anſwered, There be other Prophets <note n="a" place="margin">Mark this.</note> be<g ref="char:EOLhyphen"/>ſides me. And being preſſed again with the ſame queſtion, anſwered, I have ſaid what I may as to that thing in the counſel of my Father.</p>
+               <p>Upon this his confeſſion at <hi>Briſtoll,</hi> and anſwer as a fore<g ref="char:EOLhyphen"/>ſaid.</p>
+               <p>
+                  <label>Reſolution of the Committee:</label>
+                  <hi>The Committee were of opinion, that</hi> James Naylor <hi>had aſſumed</hi> 
+                  <note n="a" place="margin">Why? be<g ref="char:EOLhyphen"/>cauſe he con<g ref="char:EOLhyphen"/>feſſes the truth.</note> 
+                  <hi>the title of the Prophet.</hi> 
+                  <note n="b" place="margin">Therefore you ſhould not have done him harm, Pſ. 105. 15.</note> 
+                  <hi>of the moſt high God.</hi>
+               </p>
+            </div>
+            <pb n="19" facs="tcp:116509:9"/>
+            <div type="article">
+               <head>The King of Iſrael.</head>
+               <p>And for this the evidence was, we find in a letter from one <hi>Thomas Symmons</hi> this title given to <hi>James Naylor,</hi> and in the examination of <hi>Dorcas Erbery</hi> taken at <hi>Briſtoll</hi> aforeſaid, we find ſomething to this purpoſe, who being asked why ſhe pulled off his ſtockings, ſhe anſwered, be<g ref="char:EOLhyphen"/>cauſe he is the holy one of Iſrael, and deſerves and is wor<g ref="char:EOLhyphen"/>thy of it.</p>
+               <p>And <hi>Martha Symmons,</hi> upon her examination at <hi>Bri<g ref="char:EOLhyphen"/>ſtoll,</hi> ſaith that <hi>James Naylors</hi> name is now buried, &amp; that he is anoninted King <note n="*" place="margin">He witneſſed before his Judges, that he was a King over the powers of darkneſs, and ſo reigns ac<g ref="char:EOLhyphen"/>cording to Scripture, Rev. 5. 10.</note> of Iſrael; to which being examined by the Committee, expreſly owned the examination as to that to be true, and the thing it ſelf, but becauſe this va<g ref="char:EOLhyphen"/>ries a little from the charge and faſtens <note n="*" place="margin">Where is any thing that is evill proved that he hath ſaid or done.</note> it not altogether upon <hi>James Naylor,</hi> they had this further proof, <hi>James Naylor</hi> in his examination at <hi>Briſtoll</hi> being asked whether he were the King of Iſrael, anſwered, thou haſt ſaid. To this <hi>James Naylor</hi> being examined by the Committee, whe<g ref="char:EOLhyphen"/>ther this queſtion were ſo demanded as aforeſaid, he an<g ref="char:EOLhyphen"/>ſwered; that it was not asked by way of a queſtion, whe<g ref="char:EOLhyphen"/>ther he were the King of Iſrael, but that the examiner did poſitively affirm, thou art the King of Iſrael, to which he anſwered, thou haſt ſaid it. And being particularly examined by the Committee whether he did own the title of the King of Iſrael, he anſwered in theſe words, I have no Kingdome in this World, yet a Kingdome I have, and he that hath redeemed me <gap reason="blank" resp="#UOM" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> hath redeemed me to be a King <note n="a" place="margin">Read Rev. 5. 9. 10.</note> for ever. And being examined again to the ſame queſtion, whether he owned the title of the King of Iſrael, he anſwered, as a creature, I deny any ſuch thing further, then as God manifeſted in the fleſh. And if they gave that title to Chriſt <note n="b" place="margin">Would you not have him to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n? Read Luk. 19. 27.</note> in me, then I do own it.</p>
+               <pb n="20" facs="tcp:116509:10"/>
+               <p>
+                  <label>Reſolution of the Committee.</label>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon this evidence the Committee were of opinion, that</hi> James Naylor <hi>aſſumed</hi> 
+                  <note n="a" place="margin">Doth he not all along deny it to the viſible, how comes it you bear falſe wit<g ref="char:EOLhyphen"/>neſſe againſt him, in ſaying that <hi>Iames Naylor</hi> aſſumes it?</note> 
+                  <hi>the title of the King of Iſ<g ref="char:EOLhyphen"/>rael.</hi>
+               </p>
+            </div>
+            <div type="article">
+               <head>The everlaſting Son of Righ<g ref="char:EOLhyphen"/>teouſneſſe.</head>
+               <p>This we find given to him in a letter by <hi>Hanna Stranger</hi> in theſe words, thou everlaſting Son of Righteouſneſſe. And <hi>Martha Symmons</hi> in her examination at <hi>Briſtoll</hi> calls him Lord of Righteouſneſſe, which ſhe alſo affirmed be<g ref="char:EOLhyphen"/>fore the Committee. And <hi>James Naylor</hi> himſelf being examined by the Committee whether any perſon had gi<g ref="char:EOLhyphen"/>ven him that title of the everlaſting Son of Righteouſneſs, he anſwered, where God <note n="a" place="margin">Take no<g ref="char:EOLhyphen"/>tice of his an<g ref="char:EOLhyphen"/>ſwers all a<g ref="char:EOLhyphen"/>long, whether there be any blaſphemy in them.</note> is manifeſted in the fleſh, there is the everlaſting Son of Righteouſneſſe. And being asked twice <note n="b" place="margin">The be<g ref="char:EOLhyphen"/>gotten of God cannot lye.</note> whether God was manifeſted in the fleſh in him, anſwered both times, God manifeſt in the fleſh I witneſſe, and may not deny.</p>
+            </div>
+            <div type="article">
+               <head>Prince of peace.</head>
+               <p>This we find given to him in a letter by the ſaid <hi>Han<g ref="char:EOLhyphen"/>na Stranger,</hi> and in her examination at <hi>Briſtoll</hi> ſhe owned him to be the Prince of peace; the ſame title was alſo gi<g ref="char:EOLhyphen"/>ven him by <hi>Martha Symmons,</hi> as it appeared by her exa<g ref="char:EOLhyphen"/>mination at <hi>Briſtoll,</hi> which was confeſſed by her before the Committee. And being particularly asked what ſhe called the man whom we call <hi>James Naylor,</hi> anſwered, I call him a perfect man. And being further demanded whether ſhe did not call him the Prince of peace, anſwered,
+<pb n="21" facs="tcp:116509:10"/>
+he that is a perfect <note n="c" place="margin">Read, James 3. 2.</note> man, he is the Prince of peace, and <hi>Naylor</hi> being examined by the Committee whether he owned the title of the Prince of peace, anſwered, the Prince of peace I own, the everlaſting peace <note n="d" place="margin">Bleſſed is he that can truly witneſſe this.</note> is begot<g ref="char:EOLhyphen"/>ten in me.</p>
+            </div>
+            <div type="article">
+               <head>Sent to judge and try the Cauſe of Iſrael.</head>
+               <p>The evidence of this was in the ſame letter of <hi>Jane Woodcocks,</hi> we find it given to him, and in his examination at <hi>Briſtoll</hi> whether that title was given to him, he would make no anſwer. And being examined by the Committee, whether he aſſumed to be ſent to judge and try the cauſe of Iſrael, anſwered in theſe words, the Judge of Iſrael is but one, and that Judge I witneſſe in me, which is the Chriſt. <note n="a" place="margin">Mark his anſwers all a<g ref="char:EOLhyphen"/>long, and ſee what blaſphe<g ref="char:EOLhyphen"/>my you find.</note> And further anſwered, if thou ſpeak of him, whom the Father hath ſent into the World and begotten in me, the holy Ghoſt, the Spirit of the Father, and the Son in me, which is in me, it thou ſpeak of it, this I own. And being asked in what reſpect he was ſent, he anſwered no otherwiſe, but as God manife&amp; s;t in the fleſh, though not as mortall. And being asked by whom he was ſent to trie the cauſe of Iſrael, anſwered, by him who hath made all creatures, and hath ſent his Spirit into me, his Son into me, to try the cauſe, though he ſaid, he was no Judge in carnall matters. And being asked whether he were more ſent to judge and trye the cauſe of Iſrael than another, anſwered in theſe words, as to my ſaying I am ſent, mind that, no otherwiſe then as the Father and the Son is in me, and to that I ſay further, that no other man is ſent in that ſence, but he that knoweth the indwelling of that God, and according to the meaſure of his knowledge of the li<g ref="char:EOLhyphen"/>ving God, ſo far is Judgement <note n="b" place="margin">Let his anſwers be w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yed in the right Bal<g ref="char:EOLhyphen"/>lance, Job 31. 6. and thoſe that dwell in love will ſee no <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>llin them.</note> committed to him, and no further.</p>
+               <p>
+                  <pb n="22" facs="tcp:116509:11"/>
+And being urged to anſwer, whether any other had the ſame meaſure of Judgement, to judge the cauſe of Iſrael as he had, he anſwered, that he <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot at preſent any thing given him of his Father to anſwer unto that.</p>
+               <p>
+                  <label>Reſolution of the Committee:</label>
+                  <label>Reſolution of the Committee.</label>
+                  <hi>That</hi> James Naylor <note n="a" place="margin">Learn to ſpeak truth.</note> 
+                  <hi>hath aſſumed to be ſent to judge, and trye the Cauſe of Iſrael.</hi>
+               </p>
+            </div>
+            <div type="article">
+               <head>Ieſus.</head>
+               <p>
+                  <hi>And</hi> for this the evidence was.</p>
+               <p>
+                  <hi>Iohn Stranger</hi> in a poſtſcript in his wifes letter directed to, and found upon <hi>Iames Naylor,</hi> uſed theſe words, thy name is no more to be called <hi>Iames,</hi> but <hi>Ieſus;</hi> which poſtſcript being ſhewed to <hi>Stranger</hi> by the Committee, he owned it written by him, and being asked wherefore he called him <hi>Jeſus</hi> anſwered in theſe words, I was moved <note n="b" place="margin">Be not of<g ref="char:EOLhyphen"/>fended at the movings of the Lord, leſt he break you in pieces. Read, Mat. 21. 44.</note> of the Lord, and afterwards by the Spirit of the Lord, and being asked whether by Jeſus he meant the Saviour of the World, he would give no anſwer. And <hi>Martha Sym<g ref="char:EOLhyphen"/>mons</hi> in her examination at <hi>Briſtoll</hi> ſaith, that ſhe hath heard ſome call him <hi>Jeſus,</hi> which examina<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion being read unto her, ſhe denied not that, though ſhe denied another part of that examination. And <hi>James Naylor</hi> being exa<g ref="char:EOLhyphen"/>minated whether any perſon had called him by the name of Jeſus, anſwered in theſe words, as I am viſible <note n="c" place="margin">Take no<g ref="char:EOLhyphen"/>tice of this.</note> here before you, I believe they have not, but that the name of the Lord is in me, that I dare not deny; and further ſaid, that they have given that name to him who is the Jeſus. <note n="d" place="margin">Read and underſtand, 2. Cor. 13. 5.</note> But if they have given it to any other then to the Son of God that is in me, I do deny what they have ſpoken. <note n="d" place="margin">Mark.</note> And being asked whether he denyed, that they gave him the name of <hi>Jeſus,</hi> anſwered, as I am a creature <note n="e" place="margin">Mark a<g ref="char:EOLhyphen"/>gain, where is the blaſphe<g ref="char:EOLhyphen"/>my.</note> I be<g ref="char:EOLhyphen"/>lieve
+<pb n="23" facs="tcp:116509:11"/>
+they did not, &amp; afterwards confeſſed that the name of <hi>Jeſus</hi> was given him in a letter, &amp; if he had underſtood it of any other than the <hi>Ieſus,</hi> he ſhould have denied it: being demanded whether they gave the name of <hi>Jeſus</hi> to him, he anſwered in theſe words no otherwiſe than as to the Son of God, <note n="a" place="margin">Take no<g ref="char:EOLhyphen"/>tice of this alſo.</note> being demanded whether any had given him the name of <hi>Jeſus;</hi> anſwered, not as to the viſible, and being demanded to what then they gave the name of <hi>Je<g ref="char:EOLhyphen"/>ſus,</hi> anſwered in theſe words, I underſtand they gave that name to the <hi>Jeſus,</hi> to the Chriſt <note n="b" place="margin">Let thoſe that know what Chriſt Jeſus is, judge if this be bla<g ref="char:EOLhyphen"/>ſpemy, and let the Scriptures bear witneſs Read Col. 1. 27. 2. Cor. 13. 5.</note> that is in me.</p>
+               <p>Vpon his ſecond examination being asked whether he owned the name of <hi>Jeſus,</hi> and if that title belonged to him, as to Chriſt within him, he anſwered, that name was ne<g ref="char:EOLhyphen"/>ver publiſhed to be called by me, neither do I call my ſelf <note n="c" place="margin">Mark a<g ref="char:EOLhyphen"/>gain.</note> by that name, but what my Father hath publiſhed, is another thing.</p>
+               <p>
+                  <label>Reſolution of the Committee.</label>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon this evidence the Committee were of opinion, that</hi> James Naylor <hi>aſſumed the name of</hi> Jeſus. <note n="*" place="margin">What ground is there for ſuch an opinion, ſeeing they often Feard him deny it, as to ſelf.</note>
+               </p>
+            </div>
+            <div type="article">
+               <head>He in whom the hope of Iſrael ſtandeth.</head>
+               <p>And for this the evidence was in the letter of <hi>Martha Symmons</hi> found upon <hi>James Naylor</hi> were theſe words, thou well beloved Lamb of God, in whom the hope of Iſ<g ref="char:EOLhyphen"/>rael ſtands. And <hi>James Naylor</hi> in his examination at <hi>Bri<g ref="char:EOLhyphen"/>stoll</hi> being asked, whether he were the Lamb of God in whom the hope of Iſrael ſtands, anſwered, that if I were not his Lamb, I ſhould not be ſo ſought to be devoured, <note n="d" place="margin">Is it a true ſaying.</note> and that the hope of Iſrael ſtands in the Righteouſneſſe of the Father in whomſoever it is, and being asked whe<g ref="char:EOLhyphen"/>ther Iſraels hope were in any meaſure in him, be an<g ref="char:EOLhyphen"/>ſwered,
+<pb n="24" facs="tcp:116509:12"/>
+yea, which examination of his at <hi>Briſtoll</hi> being read to him by the Committee, he denyed not this part of it, and being examinated by the Committee, whether their hope of Iſrael did ſtand in him, anſwered in theſe words, it ſtands only in Chriſt Jeſus, <note n="a" place="margin">Take no<g ref="char:EOLhyphen"/>tice he cannot deny Chriſt Jeſus, but him<g ref="char:EOLhyphen"/>ſelf doth he deny.</note> and as Chriſt Jeſus is known in me, and being asked again whether he were in whom the hope of Iſrael ſtands, anſwered in theſe words, no way but as Chriſt is in me, <note n="b" place="margin">Mark.</note> and being then asked whether as Chriſt is in you, ſo are you he in whom the hope of Iſrael ſtands, anſwered, nay, doe not adde to my words: I ſpeak as plain as I can, that all the glory may be given to God, <note n="*" place="margin">Take no<g ref="char:EOLhyphen"/>tice of this mans blaſphe<g ref="char:EOLhyphen"/>my, who would have all the glory given to God, and what is there proved that he hath taken to himſelf.</note> and none to the creature, that the whole glory may be given to my Father. And none to me, as you look upon me as a creature, and the next queſtion was whether as Chriſt is in you, are you he in whom the hope of Iſrael ſtands, to which he anſwered Chriſt in me the hope of glory, <note n="c" place="margin">Search the Scripture Col. 1. 27.</note> and being examined what hopes Iſrael had in him beyond any other perſon, anſwered, none can know but they that are of Iſrael, <note n="d" place="margin">Let him that reads un<g ref="char:EOLhyphen"/>derſtand, but he that will be ignorant, may be ignorant ſtill.</note> they can give an account of their hopes, Iſrael muſt give an account of their hopes themſelves.</p>
+               <p>
+                  <label>Reſolution of the Committee.</label>
+                  <hi>That</hi> James Naylor <hi>aſſumed</hi> 
+                  <note n="e" place="margin">Why be<g ref="char:EOLhyphen"/>cauſe he ſaith the hope of Iſrael ſtands only in Chriſt Jeſus.</note> 
+                  <hi>to beſeem whom the hope of Iſrael ſtands.</hi>
+               </p>
+               <p>The Committee being deſirous to informe themſelves how far the ſaid <hi>Naylor</hi> was conſenting unto that worſhip and thoſe titles before given unto him, beſides tho former evidence they did find in his examination at <hi>Briſtoll,</hi> where being asked why he came into the City in ſo unu<g ref="char:EOLhyphen"/>ſuall a manner, as the woman leading his horſe and ſing<g ref="char:EOLhyphen"/>ing before him, he anſwered that he might not refuſe any thing that's moved <note n="f" place="margin">Is this blaſphemy for to own the movings of the Lord, and who made you Judges in this matter.</note> of the Lord, which being read un<g ref="char:EOLhyphen"/>to him at the Committee, he denied not, and for the bet<g ref="char:EOLhyphen"/>ter clearing of this, the Committee examined <hi>Hanna
+<pb n="25" facs="tcp:116509:12"/>
+Stranger</hi> whether <hi>Naylor</hi> reproved her, for caſting her garments before him, or for kneeling or kiſſing his feet, from whom they could get no other anſwer then this, ſhe would not accuſe or juſtify any. The Committee did al<g ref="char:EOLhyphen"/>ſo find in their examination of <hi>Naylor</hi> being asked by them, whether he reproved the women for ſpreading their garments and ſinging before him, anſvvered in theſe vvords, nay, only I ſaid unto them take heed that they did nothing but vvhat they vvere really moved of the Lord. <note n="*" place="margin">Is not this good counſell where appears that which proves blaſphemy.</note> And being alſo examined by the Committee, vvhether he reproved thoſe that gave him the title before men<g ref="char:EOLhyphen"/>tioned, anſvvered, that he had not at all ſpoken unto them, concerning that thing, only the letters he had vvherein the titles vvere given, and did not think at all that any ſhould have ſeen <note n="a" place="margin">So he in<g ref="char:EOLhyphen"/>tended not the publiſhing of thoſe titles, as one aſſu<g ref="char:EOLhyphen"/>ming glory to himſelf.</note> them, becauſe he knevv there vvas things in them that many could not bear, but now he ſaw his Father purpoſed they ſhould not be hid.</p>
+               <p>
+                  <hi>Naylor</hi> at his ſecond examination before the Committee, being demanded whether he had reproved the perſons that gave him thoſe titles and attributes, he would not ſay he had reproved them; being demanded whether he owned them or diſclaimed them, anſwered in theſe words, if they had it from the Lord what am I that I ſhould judge it; <note n="b" place="margin">Is not this rightly ſpoken Read Rom. 14. 4. 10.</note> and being preſſed again with the ſame queſtion, anſwered thus, if the Father move them by his Spirit to give them to Chriſt I may not deny, if they give that to any other but Chriſt I diſowne it; <note n="c" place="margin">Is this aſſuming.</note> and being asked again whether he reproved them, or not, anſwered, if at<g ref="char:EOLhyphen"/>tributed to the creature, then it is reproveable, <note n="d" place="margin">Or is this aſſuming.</note> if they did it to the Lord, then I dare not reprove it; and being asked, whether he thought not Chriſt robbed <note n="*" place="margin">Nay, they would rob him of his ho<g ref="char:EOLhyphen"/>nour, that would not have him to have it where he is.</note> of his honour, by that honour of worſhip given unto him, an<g ref="char:EOLhyphen"/>ſwered that he looked upon it to be really to the true ho<g ref="char:EOLhyphen"/>nour of Chriſt, or elſe he would utterly have denied it; and being asked whether he had at any time what<g ref="char:EOLhyphen"/>ſoever
+<pb n="26" facs="tcp:116509:13"/>
+reproved thoſe perſons, he anſwered, I never un<g ref="char:EOLhyphen"/>derſtood that they gave that honour, but to God. <note n="a" place="margin">Or is this blaſphemy.</note>
+               </p>
+               <p>Here we have thought to have concluded this report, but the Committee meeting with ſome further evidence, <note n="b" place="margin">There is need of fur<g ref="char:EOLhyphen"/>ther evidence to ſatisfie the wife-hearted.</note> they were willing you ſhould be partakers of it, and it is this. <hi>John Baynam</hi> Deputy to the S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgeant of the houſe, to whoſe cuſtody <hi>Naylor</hi> and his company are com<g ref="char:EOLhyphen"/>mitted, informeth that the uſuall poſture of <hi>James Naylor</hi> is ſitting in a chair, and his company both men and wo<g ref="char:EOLhyphen"/>do ſometimes kneel, &amp; when they are weary of kneeling, they sit upon the ground <note n="c" place="margin">They have been ſound in the ſame po<g ref="char:EOLhyphen"/>ſtures dayly ſince <hi>Iames Naylor</hi> hath been removed from them And is this your further evidence.</note> before him, ſinging theſe and divers other words to the like purpoſe (viz.) holy, holy, to the Almighty, to the true God and great God, and glory to the Almighty, <note n="d" place="margin">And is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s further evidence of <hi>Iames Naylors</hi> blaſphemy, that others ſing prayſes to the true God, and glo<g ref="char:EOLhyphen"/>ry to the Al<g ref="char:EOLhyphen"/>mighty.</note> &amp;c. And thus they do uſually all the day long, but the informer never heard <hi>Naylor</hi> ſing as aforeſaid, and ſaith there is great reſort to the ſaid <hi>Naylor</hi> by divers perſons, who moſt of them do kneel <note n="e" place="margin">And doe they not ſtill the ſame, as when <hi>Iames Naylor</hi> was with them.</note> before him in the manner aforeſaid. And <hi>Martha Symmons</hi> in the poſture aforeſaid ſung, this is the joyfull day, behold the King of Righteouſneſſe is come, <note n="f" place="margin">It is likely ſhe knew what ſhe ſung, and well is it for them, that can witneſs the Son of Righteouſneſſe come with healing, &amp;c. Read Mala. 4. 2.</note> and further the informer ſaith, that he never knew the ſaid <hi>Naylor</hi> ſhew any diſlike, either by reproof or otherwiſe of that honour or worſhip which <hi>John Stranger</hi> and his wife <hi>Martha Symmons,</hi> and <hi>Dorcas Erbery</hi> and the reſt gave him <note n="g" place="margin">How can he ſay they gave it to him, ſince he himſelf ſaith that he never underſtood they did it to him as a creature, and this informer hath ſaid a lit<g ref="char:EOLhyphen"/>tie before that their prayſes were directed to the great God, and to the Almighty.</note> as aforeſaid. And a Member of the houſe being lately at the place, where <hi>Naylor</hi> is now a priſoner, informes the Committee, that he ſaw <hi>Naylor</hi> and his company in the poſture aforeſaid, and heard <hi>John Stran<g ref="char:EOLhyphen"/>ger,</hi> and one of the women ſing, holy, holy, holy Lord God, <note n="h" place="margin">Are you angry that others ſhould ſing prayſes to the Lord God, and is this your further evidence of <hi>Iames Naylors</hi> blaſphemy.</note> and holy, holy, holy to thee, thee, thee Lord
+<pb n="27" facs="tcp:116509:13"/>
+God<g ref="char:punc">▪</g> And whil'ſt <hi>John Stranger</hi> ſung theſe words, he did ſometimes look upwards <note n="c" place="margin">Is looking upon J. N. any further evi<g ref="char:EOLhyphen"/>dence? It ſeems a<g ref="char:punc">▪</g> ſmall thing will ſerve turn for further evi<g ref="char:EOLhyphen"/>dence.</note>, and ſometimes upon <hi>James Naylor.</hi> Another Member <note n="*" place="margin">Ought his Accuſers to have been his Judges? it was not likely that ſuch could ſee his innocency.</note> informed us, as upon his own view, to the ſame purpoſe. And at <hi>Naylor's</hi> laſt examina<g ref="char:EOLhyphen"/>tion before the Committee, being Wedneſday the third in<g ref="char:EOLhyphen"/>ſtant, one <hi>William Piggot</hi> did inform, that <hi>Naylor</hi> ſitting in a Chair where he is now a Priſoner, one <hi>Sarah Black<g ref="char:EOLhyphen"/>bery</hi> came to him, and took him by the hand, and ſaid, Riſe up my love, my doye, my fair one, and come away; why ſitteſt thou among the pots? And preſently put her mouth upon his hand, and ſunk down upon the ground be<g ref="char:EOLhyphen"/>fore him.</p>
+               <p>To which <hi>Naylor</hi> himſelf being examined by the Com<g ref="char:EOLhyphen"/>mittee, confeſſed ſhe took him by the hand, and ſpoke the words aforeſaid, but denies the putting her mouth upon his hand, and ſuch bowing down, but ſaith, that he ſate low, and that he was not free to go with her. And <hi>Naylor</hi> be<g ref="char:EOLhyphen"/>ing asked to whom ſhe directed that ſpeech, anſwered, to the Lord, and to him that raiſeth from the duſt, and caſteth them down that are exalted. And being asked whether he reproved her for that expreſſion, he anſwered, he reproved her not. And further, <hi>William Piggot</hi> informed the Com<g ref="char:EOLhyphen"/>mittee<g ref="char:punc">▪</g> that the laſt week he was at the place aforeſaid where <hi>Naylor</hi> is now a priſoner, and that one <hi>Stranger</hi> and <hi>Martha Symmons</hi> were with others ſitting upon their heels before and about <hi>Naylor,</hi> and that <hi>Stranger</hi> roſe up, and ſtood and ſung juſt before <hi>Naylor,</hi> according to their uſual manner <note n="a" place="margin">Hath it not been their manner ſince he was remo<g ref="char:EOLhyphen"/>ved as before? Ask their Kee<g ref="char:EOLhyphen"/>per <hi>John Bay<g ref="char:EOLhyphen"/>nam,</hi> whom you cite as further evi<g ref="char:EOLhyphen"/>dence.</note> of ſinging; when and where a man Quaker (being preſent) asked <hi>Naylor,</hi> Doſt thou own that voyce? <hi>Naylor</hi> anſwered, Yea, I do. And <hi>Naylor</hi> being asked by the Committee, if this were ſo, anſwered, If I tell you the truth, you will not believe me. And <hi>Naylor</hi> being preſſed to anſwer whether he owned the voyce afore<g ref="char:EOLhyphen"/>ſaid, anſwered, That voyce I will not deny.</p>
+               <p>
+                  <pb n="28" facs="tcp:116509:14"/>
+To ſum up all; the Committee asked <hi>Naylor,</hi> what he had more to ſay, (that being likely to be the laſt time of hearing him before the Committee reported the whole fact to the Houſe) he thus anſwered.</p>
+               <p>I do abhor that any of that honour which is due to <note place="margin">Take good notice of his anſwers from firſt to laſt, and ſee if in any of them you can finde blaſphemy, or any thing that is contrary to the Scriptures, and the Saints practice<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> God, ſhould be given to me as I am a Creature; but it pleaſed the Lord to ſet me up as a ſign of the coming of the righteous one; and what hath been done in my paſſing through the Towns, I was commanded by the power of the Lord to ſuffer ſuch things to be done to the outward as a ſign, I abhorr any honour as a Creature.</p>
+            </div>
+         </div>
+         <div type="journal_of_proceedings">
+            <div type="day">
+               <pb n="29" facs="tcp:116509:14"/>
+               <head>Dec. 5.</head>
+               <p>The Report <note n="a" place="margin">The firſt time the whole Houſe ſate a<g ref="char:EOLhyphen"/>bout J. N.</note> concerning <hi>James Naylor,</hi> received and read in the Houſe this day from the Committee.</p>
+            </div>
+            <div type="day">
+               <head>Dec. 6.</head>
+               <p>THE Houſe this day reſumed the debate upon the re<g ref="char:EOLhyphen"/>port <note n="b" place="margin">The ſe<g ref="char:EOLhyphen"/>cond time the whole Houſe ſate about J. N.</note> touching <hi>James Naylor.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi> That <hi>James Naylor</hi> be brought forthwith to the Bar, and that the report of the Committee be read to him; and that it be then demanded of him what he ſaith hereunto by confeſſion or denial. He was ſent for accor<g ref="char:EOLhyphen"/>dingly; and being brought to the Bar, was ſpoken to to kneel <note n="c" place="margin">You ſhould not be offend<g ref="char:EOLhyphen"/>ed with others if they do what you re<g ref="char:EOLhyphen"/>quire your ſelves. Herein you walk not charitably to<g ref="char:EOLhyphen"/>wards your brethren, more and chap. 13.</note> which he did not; and keeping his Hat on, the Sergeant by command of the Speaker took off his Hat. And being asked whether his name were <hi>James Naylor,</hi> he anſwered, he is ſo called. Being asked, how long he hath been ſo called, he anſwered, ever ſince he can remember.</p>
+               <p>The Report that the Committee had drawn up was read to him, and he was demanded to every particular, eſpecially when it is done to God in Man. Reade 2 Cor. 6. 18. 15.
+<pb n="30" facs="tcp:116509:15"/>
+whether that were his anſwer to the Committee: To which he anſwered particularly, acknowledging them to be ſo, or to that effect <note n="d" place="margin">But there was much wanting of what he had ſpoken to the Committee, which in ſome things the truth might have more ful<g ref="char:EOLhyphen"/>ly appeared.</note> and ſo withdrew.</p>
+               <p>
+                  <hi>Reſolved,</hi> that <hi>James Naylor</hi> be called in to the Bar, and demanded ſeveral queſtions. He was accordingly called in, and theſe <note n="*" place="margin">But what theſe queſtions were, is not yet certainly known, for there is no re<g ref="char:EOLhyphen"/>cord kept of them.</note> queſtions demanded of him.</p>
+               <p>
+                  <hi>Reſolved,</hi> That the Houſe doth agree with the Com<g ref="char:EOLhyphen"/>mittee in the report of the matter touching <hi>James Nay<g ref="char:EOLhyphen"/>lor.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi> That this debate be adjourned till Monday morning, and nothing to intervene.</p>
+               <p>
+                  <hi>Reſolved,</hi> That <hi>James Naylor</hi> be kept private.</p>
+            </div>
+            <div type="day">
+               <head>Monday, 8.</head>
+               <p>The Houſe according to former order reſumed <note n="a" place="margin">The third time the whole Houſe ſpent about J. N.</note> the debate upon the buſineſs of <hi>James Naylor.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi> That this debate be adjourned till three of the clock.</p>
+               <p>
+                  <hi>Reſolved,</hi> That Candles be brought in.</p>
+               <p>The queſtion being propounded <note n="b" place="margin">The fourth time the whole Houſe ſate a<g ref="char:EOLhyphen"/>bout J. N.</note>, That <hi>James Nay<g ref="char:EOLhyphen"/>lor</hi> upon the whole matter of fact <note n="c" place="margin">What was his fact that he committed made him guilty of Blaſphemy?</note> is guilty of Blaſphe<g ref="char:EOLhyphen"/>my; and the queſtion being put, that the word Horrid <note n="d" place="margin">What hor<g ref="char:EOLhyphen"/>rid, thing did he? Let it be declared; few wiſe men are not ſatisfied as yet.</note> be inſerted in the queſtion next before the word Blaſphe<g ref="char:EOLhyphen"/>my, it paſſed in the affirmative.</p>
+               <p>And the queſtion being propounded, That <hi>James Naylor</hi> upon the whole matter in fact, is guilty of horrid Bla<g ref="char:EOLhyphen"/>ſphemy.</p>
+               <p>And the queſtion being put, that the queſtion be now put, it paſſed in the affirmative <note n="e" place="margin">It is much ſuch a vote ſhould paſs, and ſo little ground for it as yet appears.</note>
+               </p>
+               <p>And the main queſtion being put, it was</p>
+               <p>
+                  <hi>Reſolved,</hi> That <hi>James Naylor</hi> upon the whole matter of fact is guilty of Horrid Blaſphemy.</p>
+               <p>
+                  <hi>Reſolved,</hi> That <hi>James Naylor</hi> is a grand Impoſtor <note n="f" place="margin">It were well if cauſe were ſhewed why this was added.</note> and ſeducer of the people.</p>
+               <p>
+                  <pb n="31" facs="tcp:116509:15"/>
+Reſolved, that the debate upon this report touching <hi>James Naylor</hi> be adjourned till to morrow morning <note n="a" place="margin">You do your buſineſs with great leiſure, and take time e<g ref="char:EOLhyphen"/>nough; if you do it well, you'l have the more peace with God.</note>
+               </p>
+            </div>
+            <div type="day">
+               <head>Tueſday 9.</head>
+               <p>The Houſe according to former order did reſume <note n="b" place="margin">The fifth time the whole Houſe ſate a<g ref="char:EOLhyphen"/>bout J. N.</note> the debate upon the report touching <hi>James Naylor.</hi>
+               </p>
+               <p>Reſolved, that the debate be adjourned two hours.</p>
+               <p>The Houſe adjourned till three of the clock.</p>
+               <p>The Houſe reſumed <note n="c" place="margin">The ſixth time the whole Houſe ſate a<g ref="char:EOLhyphen"/>bout J. N.</note> the debate upon the report touch<g ref="char:EOLhyphen"/>ing <hi>James Naylor.</hi>
+               </p>
+               <p>Reſolved, that this debate touching <hi>James Naylor</hi> be ad<g ref="char:EOLhyphen"/>journed till to morrow morning.</p>
+            </div>
+            <div type="day">
+               <head>Wedneſday 10.</head>
+               <p>Reſolved <note n="d" place="margin">The ſe<g ref="char:EOLhyphen"/>venth time the Houſe ſate a<g ref="char:EOLhyphen"/>bout J. N.</note> that this debate be adjourned till to morrow morning eight of the clock, and nothing to inter<g ref="char:EOLhyphen"/>vene.</p>
+            </div>
+            <div type="day">
+               <head>Thurſday 11.</head>
+               <p>The Houſe reſolved <note n="e" place="margin">The eighth time the whole Houſe ſpent a<g ref="char:EOLhyphen"/>bout J. N.</note> &amp;c.</p>
+               <p>The queſtion being put, that the Houſe adjourn two hours <note n="f" place="margin">What is the reaſon you are ſo earneſt? you have ſpent time enough already to end ſuch a buſineſs as this, had not there been a Lion in the way; and you had done well to have taken notice of the ſword of the Lord drawn againſt you in this thing.</note> the Houſe was divided.</p>
+               <p>Yeas went forth 84. Noes 87.</p>
+               <p>So it paſſed in the negative.</p>
+               <p>Reſolved, that the debate touching <hi>James Naylor</hi> be ad<g ref="char:EOLhyphen"/>journed till to morrow morning and nothing to intervene.</p>
+            </div>
+            <div type="day">
+               <pb n="32" facs="tcp:116509:16"/>
+               <head>Friday 12.</head>
+               <p>The Houſe according to former order reſumed <note n="a" place="margin">The ninth time the whole Houſe ſpent a<g ref="char:EOLhyphen"/>bout J. N.</note> the debate upon the buſineſs of <hi>James Naylor.</hi>
+               </p>
+               <p>Reſolved, that this debate, &amp;c. till to morrow morning, and nothing to intervene.</p>
+            </div>
+            <div type="day">
+               <head>Saturday 13.</head>
+               <p>The Houſe this day according to former order aſſu<g ref="char:EOLhyphen"/>med <note n="b" place="margin">The tenth time the whole Houſe aſſumed J. N. buſineſs.</note> &amp;c.</p>
+               <p>The queſtion being propounded, that the debate touch<g ref="char:EOLhyphen"/>ing <hi>James Naylor</hi> be adjourned till Monday morning <note n="c" place="margin">Why, did you intend to ſpend your Sabbath about J. N. had you not dayes e<g ref="char:EOLhyphen"/>nough beſides to labour in?</note> and nothing to intervene, the Houſe was divided.</p>
+               <p>Noes went out 65.</p>
+               <p>Yeas 108.</p>
+               <p>So it was reſolved, that the debate touching <hi>James Nay<g ref="char:EOLhyphen"/>lor</hi> ſhould be adjourned till Monday morning eight of the clock, and nothing to intervene.</p>
+            </div>
+            <div type="day">
+               <head>Monday 15.</head>
+               <p>The Houſe according to former order aſſumed <note n="d" place="margin">The ele<g ref="char:EOLhyphen"/>venth time the whole Houſe aſſumed J. N. buſineſs.</note> the debate about <hi>James Naylor,</hi> and adjourned till to morrow morning.</p>
+            </div>
+            <div type="day">
+               <head>Tueſday 16.</head>
+               <p>The Houſe according to former order <note n="e" place="margin">The 12. time the whole Houſe aſſumed the debate about J. N. It is wondred at by many what the cauſe ſhould be that this fooliſh buſineſs ſhould hold ſo many wiſe men ſo long. Is not the Lord a confounding the wiſdome of this world with things that are fooliſh?</note> reſumed, &amp;c.</p>
+               <p>
+                  <pb n="33" facs="tcp:116509:16"/>
+The queſtion being propounded, that the puniſhment of <hi>James Naylor</hi> for his crimes ſhall be death <note n="f" place="margin">What you deſire to him, will be your own end, but you cannot kill the ſoul.</note> and that a Bill be prepared and brought in for that purpoſe; and the queſtion being put that the queſtion be now put, the Houſe was divided <note n="a" place="margin">It ſeems you cannot have your will in this neither.</note>
+               </p>
+               <p>The Noes went forth 96.</p>
+               <p>The Yeas 82.</p>
+               <p>So it paſſed in the negative.</p>
+               <p>The queſtion being put, that this be part of the puniſh<g ref="char:EOLhyphen"/>ment of <hi>James Naylor,</hi> to have his hair cut off <note n="b" place="margin">Why, do you think his ſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ength lyes in his hair? Muſt you not have your will in this neither.</note> it paſſed in the negative.</p>
+               <p>Reſolved, that this be part of the puniſhment of <hi>James Naylor,</hi> that his tongue be bored through <note n="c" place="margin">This was that the Scri<g ref="char:EOLhyphen"/>pture might be fulfilled, Rev. 1. 7.</note> with a hot iron.</p>
+               <p>That the further puniſhment of <hi>James Naylor</hi> ſhall be, that he ſhall be ſtigmatized in the forehead <note n="d" place="margin">This was alſo that the Scriptures might be ful<g ref="char:EOLhyphen"/>filld, Iſ. 52. 14.</note> with the letter <hi>B.</hi>
+               </p>
+               <p>The queſtion being propounded, that <hi>James Naylor</hi> be ſet on the Pillory <note n="e" place="margin">This was alſo that the Scripture might be ful<g ref="char:EOLhyphen"/>filled, Mar. 15. 17.</note> in the new Palace <hi>Weſtminſter</hi> the ſpace of two hours, and then ſhall be whipped <note n="f" place="margin">This was likewiſe done that the Scri<g ref="char:EOLhyphen"/>pture might be fulfilled, Joh. 19. 1. Heo. 11. 36.</note> by the Hangman through the ſtreets from Weſtminſter to Cheap<g ref="char:EOLhyphen"/>ſide, and there likewiſe be ſet upon the Pillory for the ſpace of two hours in each of the ſaid places, wearing a Paper containing an inſcription of his crimes <note n="a" place="margin">This was likewiſe done that the Scri<g ref="char:EOLhyphen"/>pture might be fulfilled, Mar. 27. 37.</note>; that his tongue ſhall be bored through with a hot iron, and that he be ſtigmatized in the forehead with the letter <hi>B.</hi>
+               </p>
+               <p>Reſolved, that inſtead of the word Cheapſide in this queſtion, the old Exchange be inſerted <note n="b" place="margin">Why, had not Cheapſide been far enough? What hath he done to deſerve ſuch cruel puniſhments?</note>
+               </p>
+               <p>Reſolved, that theſe words be added in the queſtion, With his head in <note n="c" place="margin">Otherwiſe the crown had not been about his head, Mar. 15. 17.</note> the Pillory.</p>
+               <p>Reſolved, that the place for boring his tongue, and ſtig<g ref="char:EOLhyphen"/>matizing, be near the old Exchange.</p>
+               <p>The queſtion being propounded, that the priſon he ſhall be committed to be Bridewell in <hi>Briſtoll;</hi> and the queſtion being put, it paſſed in the negative.</p>
+               <p>
+                  <pb n="34" facs="tcp:116509:17"/>
+Reſolved, he be committed to Priſon to Bridewell <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+               </p>
+               <p>Reſolved, that in ſtead of the words, from the ſociety of all men, theſe be inſerted, from the ſociety of all <note n="d" place="margin">Why, whom hath he harmed? may he not have food and rai<g ref="char:EOLhyphen"/>ment? His fact had need be great that deſerves this puniſhment. Is this the way to pay him ſome hundreds of pounds ſtill in arrears, and for his nine years faithfull ſervice in the Army?</note> people.</p>
+               <p>Reſolved, that he have no pen, ink, or paper.</p>
+               <p>Reſolved, that he ſhall have no relief but what he earns by his daily labour <note n="e" place="margin">Suppoſe you make him uncapable of labour by your puniſhment, or he be at any time ſick that he cannot labour, muſt he then ſtarve: Surely the ſpirit of Chriſt you did not conſult with when you paſs'd this judgement.</note>.</p>
+            </div>
+            <div type="day">
+               <head>Wedneſday 17.</head>
+               <p>Reſolved, that <hi>James Naylor</hi> be ſet on the Pillory, with his head in the Pillory, in the Palace-yard <hi>Weſtminſter,</hi> during the ſpace of two hours on Thurſday <note n="f" place="margin">You were long e're you could agree on your ſentence, but quick in the execution, the next day.</note> next, and ſhall be whipt by the Hangman through the ſtreets from <hi>Weſtminſter</hi> to the old Exchange <hi>London,</hi> and there like<g ref="char:EOLhyphen"/>wiſe be ſet on the Pillory, with his head in the Pillory, for the ſpace of two hours, between the hours of eleven and one, on Saturday <note n="a" place="margin">But one dayes reſpite between ſuch cruel ſuffer<g ref="char:EOLhyphen"/>ing? your ſen<g ref="char:EOLhyphen"/>tence had been more mercifull had it been preſent death; for the Exe<g ref="char:EOLhyphen"/>cutitioner confeſſed, that he gave him 310. ſtripes, and ſhould have given him one more, (there being 311. kennels) but his foot ſlipped, and the ſtroke fell upon his own hand, which hurt him much: this he confeſſed to the Sheriff.</note> next, in each place wearing a paper containing an inſcription of his crimes; and that at the old Exchange his tongue be bored through with a hot iron, and that he be there alſo ſtigmatized in the forehead with the letter <hi>B.</hi> and that he be afterwards ſent to <hi>Briſtol,</hi> and be conveyed into and through the ſaid City on Horſe<g ref="char:EOLhyphen"/>back bare ridged, with his face backward <note n="b" place="margin">What, more ſufferings yet?</note>, and there alſo publickly whipt <note n="c" place="margin">The world may think this man a great ſinner, if they judge by outward appearance, according to his ſufferings: but what evil hath he done?</note> the next Market-day
+<pb n="35" facs="tcp:116509:17"/>
+after he comes thither &amp; that from thence he be commit<g ref="char:EOLhyphen"/>ted to priſon in Breedwell London, &amp; there reſtrained from the ſociety of all people, <note n="a" place="margin">Though the Devill had power to caſt ſome into pri<g ref="char:EOLhyphen"/>ſon, yet the Lords work will go on to the confounding of all his enemies, this aſſuredly will come to paſſe, and remember that a prophet hath been amongſt you.</note> and there to labour hard till he ſhall be releaſed by Parliament, and during that time be debarred the uſe of pen, inck, and paper, <note n="b" place="margin">See whether in Queen <hi>Maries</hi> days, or in the late Biſhops time, they were ever ſo cruell, but this is come to paſſe for to try thoſe that dwell on the earth, which ſay they are Jews, and are not, but are the Synagogue of Satan. Read Rev. 2 9. and Rev. 3. 9, 10.</note> and ſhall have no relief, but what he earns by his daily labours.</p>
+               <p>Reſolved that the ſaid <hi>James Naylor</hi> be brought to the Bar, to morrow by ten of the clock to receive this judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Reſolved that the Speaker be authorized to iſſue his warrants <note n="c" place="margin">It is a que<g ref="char:EOLhyphen"/>ſtion whether this be ſuffi<g ref="char:EOLhyphen"/>cient warrant (unleſs the Protector con<g ref="char:EOLhyphen"/>curre with them in the thing,) if the inſtrument of Government be yet in force.</note> to the Sheriffs of <hi>London,</hi> and <hi>Middleſex,</hi> the Sheriff of <hi>Briſtoll</hi> and Governour of Bridewell, to ſee this judgement put in execution reſpectively in the ſaid places.</p>
+               <p>Reſolved that the Speaker be authorized to make his warrant to the Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> to convey the ſaid <hi>Nailor</hi> to <hi>Briſtoll.</hi>
+               </p>
+               <p>Reſolved that the Speaker do iſſue the like warrant to the Sheriff of <hi>Briſtoll,</hi> to convey him up to <hi>London,</hi> after the execution of this judgement there.</p>
+               <p>Reſolved that to morrow after the ſentence is pro<g ref="char:EOLhyphen"/>nounced againſt <hi>James Naylor,</hi> the ſeverall petitions now offered be read. <note n="a" place="margin">Were not theſe peti<g ref="char:EOLhyphen"/>tions for the deſtruction of the whole ſeed of the Jews, let that in your conſcience anſwer.</note>
+               </p>
+               <p>Reſolved that then the houſe do likewiſe take into con<g ref="char:EOLhyphen"/>ſideration
+<pb n="36" facs="tcp:116509:18"/>
+                  <note n="b" place="margin">It were well if you did them ſpeedy Juſtice, they have been a long time kept by you from their homes, and fami<g ref="char:EOLhyphen"/>lies, you uſe to ſay they are worſe than infidels, provides not for their families, who now hinders theſe and many more that are innocent, which lye in priſons, dungeons and holes in this Nation, that have broken no Law.</note> the perſons brought up with <hi>James Nay<g ref="char:EOLhyphen"/>lor.</hi>
+               </p>
+               <p>The Houſe being informed that <hi>James Naylor</hi> was brought to the Door, according to the former order made yeſterday, that he ſhould be brought to the Bar, receive the judgement, and the reſolution made yeſterday touch<g ref="char:EOLhyphen"/>ing the ſaid <hi>James Naylor</hi> for his puniſhment.</p>
+               <p>Reſolved that theſe words be added to the ſaid reſo<g ref="char:EOLhyphen"/>lution, viz. and the Parliament doe declare and judge the ſame accordingly.</p>
+               <p>The queſtion being propounded that <hi>James Naylor</hi> be had in, and before judgement pronounced he be demanded whether he have anything to ſay, why judgement ſhould not be pronounced <note n="c" place="margin">This had been juſt and legall, but it is likely, you were afraid he would then have cleared his Innocency.</note> upon him, and the queſtion being put, that the queſtion be now put, the Houſe was di<g ref="char:EOLhyphen"/>vided.</p>
+               <p>The Noes went forth 107</p>
+               <p>The yeas 87</p>
+               <p>So it paſt in the Negative. <note n="d" place="margin">It is pity too illegal a thing ſhould ſtand on record againſt you, it is hoped and deſired by all good men, that no Court of Judicature in theſe Nations will follow the example, if they ſhould, what will become of the good and wholſome Laws, made by our anceſtors.</note>
+               </p>
+               <p>The ſaid <hi>James Naylor</hi> was by order of the Houſe brought in to the Bar, where the Speaker acquainted him with the hainouſneſſe of the crime, of which the Parlia<g ref="char:EOLhyphen"/>ment found him guilty, <note n="e" place="margin">Of what? This the 13. time the whole Houſe ſate about <hi>I. N.</hi>
+                  </note> and accordingly did pro<g ref="char:EOLhyphen"/>nounce the judgement againſt him, and upon which he withdrew.</p>
+               <p>Reſolved that the petitions from the Counties, and the
+<pb n="37" facs="tcp:116509:18"/>
+buſineſſe about the women which were apprehended with <hi>James Naylor</hi> be taken into conſideration to morrow morning, nothing to intervene. <note n="a" place="margin">You are very zealous, take heed the hand of the Lord be not againſt you in this, as in the other, and that you be made to feel it.</note>
+               </p>
+            </div>
+            <div type="day">
+               <head>18. December (the day James Naylor firſt ſuffered.)</head>
+               <p>Was ſeverall petitions preſented to the Houſe contain<g ref="char:EOLhyphen"/>ing complaints againſt the growth and exorbitances of the people called Quakers, <note n="b" place="margin">You name only theſe, but it is againſt the whole ſeed that cannot bow to Ha<g ref="char:EOLhyphen"/>man, or that denyes the teachers made by the will of man.</note> were this day read one from the County of <hi>Devon,</hi> and of <hi>Exeter,</hi>
+               </p>
+               <p>One other from the Miniſters <note n="c" place="margin">Whoſe Miniſters are thoſe that perſecute, or that will not give liberty of conſcience to ſerve the Lord as he requires?</note> in the County of <hi>Nor<g ref="char:EOLhyphen"/>thumberland, Durham,</hi> and <hi>Newcaſtle</hi> upon <hi>Tine.</hi>
+               </p>
+               <p>One other from the Juſtices of Peace, Gentry, Mini<g ref="char:EOLhyphen"/>ſters of the Goſpell, <note n="d" place="margin">Theſe rulers, Gentry, and Miniſters muſt be ſuch we read of. Mark. 14 55. &amp;c. and Luk. 19. 47. 48.</note> and others within the County Palatine of <hi>Cheſter,</hi> and the Atteſtation of the ſame peti<g ref="char:EOLhyphen"/>tion by the Mayor, Aldermen, and Miniſters of the City of <hi>Cheſter.</hi>
+               </p>
+               <p>Another from the Mayor, Aldermen and Common Councell of the City of <hi>Briſtoll,</hi> and the Miniſters of the Goſpell there, and other chief inhabitants there.</p>
+               <p>And alſo the humble petition of divers well affected perſons, Gentlemen, Miniſters &amp; others in the County of <hi>Cornwall,</hi> which were all referred to a Committee to con<g ref="char:EOLhyphen"/>ſider of them, and to collect ſuch heads as may be fitteſt for a Bill for ſuppreſſing <note n="e" place="margin">It were well that you firſt heard both parties ſpeak, and ſee if their complaints be true, for fear the Juſtice that is amongſt the heathen condemne you not in the day of the Lord, which is not far from every one of you.</note> of the miſchiefs, and inconve<g ref="char:EOLhyphen"/>niences complained of therein.</p>
+               <p>The Houſe likewiſe referred to a Committee, the Facts and Crymes <note n="f" place="margin">They deſire to receive Juſtice from you, and as ſpeedy as you pleaſe.</note> of the reſt of the perſons, apprechended with <hi>James Naylor</hi> to ſtate the matter of fact and report it.</p>
+               <gap reason="missing" extent="2+ pages">
+                  <desc>〈2… pages missing〉</desc>
+               </gap>
+               <pb n="38" facs="tcp:116509:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <!-- duplicate of image 24 -->
+               <pb n="39" facs="tcp:116509:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="day">
+               <pb n="40" facs="tcp:116509:20"/>
+               <head>Wedneſday the 24. of De<g ref="char:EOLhyphen"/>cember.</head>
+               <p>Came five Miniſters to Newgate to <hi>J. N.</hi> namely <hi>M. Caryl,</hi> M<hi rend="sup">r</hi> 
+                  <hi>Manton,</hi> Mr. <hi>Nye</hi> Mr. <hi>Griffith,</hi> and Mr. <hi>Re<g ref="char:EOLhyphen"/>nolds</hi> and it is ſaid they did it by order from the Par<g ref="char:EOLhyphen"/>liament but they did not deal with him faithfully, or as Miniſters of Chriſt Jeſus, for they would not permit neither friend or other to be preſent in the room that might bear witneſſe of their diſcourſe, and like<g ref="char:EOLhyphen"/>wiſe when they had promiſed him to write down both their queſtions, and his anſwers and to leave with him a copy of the ſame, which after they had written they took and burnt, and performed not their promiſe with him, which thing was not honeſtly done; and they doing ſuch evill things, how can they teach good to their people, or profit them at all, ſeeing they preach more by example then by precept.</p>
+            </div>
+            <div type="day">
+               <head>Saturday 27. December.</head>
+               <p>This day <hi>James Naylor</hi> received a ſecond part of the ſentence of Parliament, before the old Exchange, where he ſtood full two hours with his head in the pil<g ref="char:EOLhyphen"/>lory, after which he was bored through the tongue with an hot iron, and burnt on the forehead with let<g ref="char:EOLhyphen"/>ter <hi>B.</hi> this is obſervable that <hi>Robert Rich,</hi> a Merchant being at the Parliament door, and there about this
+<pb n="41" facs="tcp:116509:20"/>
+morning from eight of the clock till about eleven, cry<g ref="char:EOLhyphen"/>ing to the Parliament-men as they paſſed by; to one, where he ſaw innocency, ſaid, He that dwelleth in love dwelleth with God, for God is love. And to another, where he ſaw envy reign, He that hateth his brother is a manſlayer, and he that hates his brother is a mur<g ref="char:EOLhyphen"/>therer; and ſeveral other the like ſpeeches, dividing the good from the bad. And although was then thought that <hi>James Naylor</hi> would not have ſuffered any further puniſhment, by reaſon that there were many honou<g ref="char:EOLhyphen"/>rable perſons then attending the Parliament and Pro<g ref="char:EOLhyphen"/>tector on behalf of the ſaid <hi>James Naylor;</hi> and like<g ref="char:EOLhyphen"/>wiſe the Protector had ſent to the Parliament a Letter, <hi>&amp;c.</hi> yet the ſaid <hi>Kich</hi> then told the People, that the Innocent was going to ſuffer; and crying to the Par<g ref="char:EOLhyphen"/>liament, that he was clear from the blood of all men; and deſiring them to be ſo too, departed, and came be<g ref="char:EOLhyphen"/>fore the Exchange, where with <hi>James Naylor</hi> he went on the Pillory where he ſtood, and ſate by him with two other women that ſate on each ſide by him, till after a good ſpace <hi>Robert Rich</hi> took a Paper out of his pocket, and placed over his head, whereon was writ<g ref="char:EOLhyphen"/>ten,</p>
+               <q>It is written, <hi>Luk.</hi> 23. 38. <hi>This is the King of the Jews.</hi>
+               </q>
+               <p>But preſently an Officer ſtept up, and pull'd it down, and turned <hi>Robert Rich</hi> and the two women off the
+<pb n="42" facs="tcp:116509:21"/>
+Pillory; but after a while they lifted up <hi>Robert Rich</hi> again on the Pillory, where he ſtaid till <hi>James Naylor</hi> had finiſhed his ſufferings for that time, and held him by the hand whil'ſt he was burning, and afterwards licked his wounds, and lead him by the hand from off the Pillory.</p>
+               <p>This was alſo very remarkable, that notwithſtanding there might be many thouſands of people, yet they were very quiet, few heard to revile him, or ſeen to throw any one thing at him; and when he was a burn<g ref="char:EOLhyphen"/>ing, all the people both before him and behind him, and on both ſides of him, with one conſent ſtood bare<g ref="char:EOLhyphen"/>headed. This was done that the Scripture might be fulfilled, <hi>Mar.</hi> 15. 38.</p>
+            </div>
+         </div>
+         <div type="papers">
+            <pb n="33" facs="tcp:116509:21"/>
+            <head>COPIES OF SEVERAL of the PAPERS given into the Houſe of PARLIAMENT in the time of <hi>IAMES NAYLERS</hi> Tryal &amp; ſufferings, which be<g ref="char:EOLhyphen"/>gan the fifth of <hi>December,</hi> 1656.</head>
+            <div type="letter">
+               <head>To the SPEAKER of the PARLIAMENT of ENGLAND, theſe to be read.</head>
+               <opener>
+                  <salute>FRIENDS,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>Ct nothing co<g ref="char:cmbAbbrStroke">̄</g>trary to that which doth co<g ref="char:cmbAbbrStroke">̄</g>vinceyou, though bound with an Oath, although you bring your ſelves in never ſo much diſgrace in breaking your Agreement; for in ſuch a caſe you may reject the Counſel of God againſt your own Knowledge, and ſo appearing to pleaſe the world that looks upon you, the unjuſt acts againſt the Juſt; herein you'l do deſpite to the Spirit of Grace, wilfully acting that which he knows he should not: So here comes mans condemnation juſt from God; therefore before you do act conſider; and be<g ref="char:EOLhyphen"/>fore you do give Sentence fear; for Blaſphemy proceeds from the root of Tranſgreſſion; and ſee that you be firſt out of it before you of it do judge: There is no Blaſphemy in the Light which is truth. And to witneſs the light is not Blaſphemy. And to witneſs the Prophets Life, and the Apoſtles Life that had the Life of Jeſus made manifeſt in his mortal flesh. And to witneſſe the Life of God, and God dwelling in man, is not Blaſphemy. And to witneſſe the ſecond <hi>Adam,</hi> the Lord from Heaven, and as he is, ſo to be in this world, is not Blaſphemy; but not to witneſſe this, and to be in the tranſgreſſion, he is in the Root that will blaſpheme; and for a man to ſay he witneſſes theſe things, and himſelf in the tranſgreſſion, he blaſphemes, and is the Synagogue for Satan, who did tranſgreſſe, and not abide in the truth, who is in the tranſgreſſion. Now it is not becauſe men can ſpeak the Scriptures of truth, therefore they are able to judge of Blaſphemy; for the Jews could ſpeak the Scriptures of truth, but judged the Truth Blaſphemy; Now if you would know what's Blaſphemy, this is blaſphemy, and theſe were out of the life of the truth that judged the life blaſphemy; and you do not read that any that was in the life of Chriſt, did whip, banish, priſon, put to death any for blaſphemy<g ref="char:punc">▪</g> Alas! here is blaſphemy heard all up and down the ſtreets, men profeſſing what they are not: Now the Jews which had the Scriptures, and out of the ſpirit of Chriſt, did put to death for blaſphemy: Now with this examine and judge your ſelves, that you may not be judged of the Lord: Although <hi>Darius</hi> could not change after ſeal<g ref="char:EOLhyphen"/>ed, yet 'twas much grief to him: conſider what Act that was, and Law that
+<pb n="35" facs="tcp:116509:22"/>
+was not to be changed after ſealed. And conſider <hi>Herods</hi> Oath againſt <hi>Iohn Baptiſt,</hi> and the counſel and chief Prieſts againſt Chriſt for a blaſphe<g ref="char:EOLhyphen"/>mer. Is Chriſt in you? Now where is this councel and chief Prieſts againſt him? It is better to judge of things which you truly underſtand, pertaining to this life (but that you cannot) till you come to the Light that enlightens every man that comes into the world, and ſo leads into the Kingdom of God and Chriſt that is not of this world; for there is a Kingdom of the world which is not become the Kingdom of Chriſt, which is in the tranſgreſſion; and there are the blaſphemers in the tranſgreſſion of the life which the Scriptures of truth is given forth from, which judges the truth blaſphemy. Now wait in the Light that you may receive the wiſdom of God which comes from Chriſt, by which all things was created, that with it you may come to uſe the creatures with the wiſdom by which they were created to the Glory of God. I know the Lord is ſtriving, that innocent blood you bring not upon your heads, and hath opened your underſtandings for to ſee more then at the firſt; and in many of you hath he wrought a noble Principle of tenderneſſe and moderation, in which if you abide faithful to act what it requires, the arm of the Lord you will ſee revealed, and great things brought to paſs; and ſo will you be clear (whatever becomes of the Innocent) in the day of Gods viſitation when he makes Inquiſition for blood; you whoſe underſtandings the Lord hath opened and moved to plead the cauſe of the Innocent; be faithful to God; be your talent never ſo ſmall, take heed of hiding it, leaſt your ſin become greater then you will be able to bear.</p>
+               <p>
+                  <hi>If I may have Liberty of thoſe that ſit in the Parliament, I do here at their door attend, and am ready out of the Scriptures of truth, to shew, that not any thing</hi> James Nayler <hi>hath ſaid or done is blaſphemy, or worthy either of death or bond<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <closer>
+                  <salute>It concerns no man farther to judge then he is judged, and is in the truth. This in tender love to all who are of an upright heart that ſits in Parlia<g ref="char:EOLhyphen"/>ment, from</salute>
+                  <signed>Robert Rich.</signed>
+               </closer>
+               <argument>
+                  <p>There was ſeveral copies of the Letter given to particular Members, be<g ref="char:EOLhyphen"/>ſides this little paper given to many that had not the Letter.</p>
+               </argument>
+               <closer/>
+               <postscript>
+                  <p>In a Letter of mine given to the Speaker this morning (which I deſire may be read amongſt you) is written at the latter end thereof theſe words, <hi>viz.</hi>
+                  </p>
+                  <q>If I may have Liberty of thoſe that ſit in the Parliament, I do here at their doore attend, and am ready out of the Scriptures of Truth, to shew, That not anything <hi>James Nayler</hi> hath ſaid or done is blaſphemy, or worthy either of death or bonds.</q>
+                  <p>Theſe were delivered the 15. of <hi>December,</hi> being the eleventh time the whole Houſe had ſet about this buſineſſe; ſo when I had given the Speaker the Letter, I waited at their door from the time they firſt ſate till they aroſe, and then I departed in peace.</p>
+                  <closer>
+                     <signed>ROBERT RICH.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="queries">
+               <pb n="36" facs="tcp:116509:22"/>
+               <head>
+                  <hi>To you that ſit in Parliament, who own the Scriputres, are theſe for,</hi> what is writ<g ref="char:EOLhyphen"/>ten aforetime is written for our admonition, 1 <hi>Cor.</hi> 10. 11.</head>
+               <p>
+                  <label>Quaery 1.</label>
+               </p>
+               <p>WHether thoſe that ſaid God was their Father, and crucified him for blaſphemy that ſpoke the truth, were not lyars, and of their Father the Devil, yea or nay? read <hi>Ioh.</hi> 8. 41. &amp; 44.</p>
+               <p>2. Whether lyars, covetous or proud men are not the Synagogue of Sa<g ref="char:EOLhyphen"/>tan<g ref="char:punc">▪</g> And if ſuch ſay they are the children of God, or Chriſtians, whether (by the Scripture) that be not blaſphemy? Read <hi>Rev.</hi> 2. 9.</p>
+               <p>3. Whether the lyar doth not hate him that abides in the truth? Read 1 <hi>Ioh.</hi> 3. 12 and there ſee why <hi>Cain</hi> ſlew <hi>Abel.</hi> And as it was then, is it not ſo now? Doth not he that is born after the flesh perſecute him that is born after the ſpirit? Read <hi>Gal.</hi> 4. 29.</p>
+               <p>4. Whether they that have the ſpirit of Chriſt Jeſus in them, punisheth the body, or puts any to death for words true or falſe? And did not Chriſt come to ſave life and not to deſtroy it? Read <hi>Mark</hi> 34. <hi>Matt.</hi> 13. 29, 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Iohn</hi> 8. 11.</p>
+               <p>5. Whether Chriſt Jeſus hath not been a ſtumbling ſtone, and a Rock of offence throughout all Generations? Read and ſee <hi>Iſa.</hi> 8. 14. &amp; 18. <hi>Luke</hi> 2. 34. 1 <hi>Pet.</hi> 2. 7, 8. <hi>Luke</hi> 20. 17, 18, 19. <hi>Matt.</hi> 13. 55, 56. <hi>Luke</hi> 5. 30. &amp; 33. (read theſe Scriptures over And did not the very Diſciples of Chriſt oft ſtum<g ref="char:EOLhyphen"/>ble and were offended at him? Read over theſe Scriptures and conſider them well, <hi>Matt.</hi> 26. 8. to the 14. ver. &amp; the 31. ver. <hi>Matt.</hi> 28. 17. <hi>Ioh.</hi> 6. 60. <hi>Luke</hi> 24. 11, 15, 16, &amp; 37. ver. <hi>Ioh.</hi> 11. 39, 40. <hi>Joh.</hi> 20. 15. <hi>Lu.</hi> 24. 32. And did not the Prophets do many things that the wiſdom of the flesh might count fool<g ref="char:EOLhyphen"/>ishneſs, and to be rediculous? Read <hi>Iſa.</hi> 20. 2, 3. <hi>Ier.</hi> 13. 3, 4, 5, <hi>&amp;c. Ezek.</hi> 4. 1, 2, 3, <hi>&amp;c.</hi> &amp; <hi>Ezek.</hi> 12. 5, 6. <hi>Acts</hi> 21. 12, 13. <hi>Ioſ.</hi> 6. 6</p>
+               <p>6. VVhether the Lord in all ages hath not tried the children of men? Read <hi>Pſal.</hi> 11. 4, 5. Rev. 3. 9, 10. And whether the day be not approaching that will try every mans work? 1 <hi>Cor.</hi> 3. 13. And whether all men be not either the children of God or of the Devil? And whether by their fruits they are not made manifeſt? And whether thoſe that are the Children of God be not lead into moderation, Gentleneſſe, patience, mercifulneſſe, meekneſſe, love, <hi>&amp;c.</hi> And whether the Devil leads not his into wrath, envy, hatred, emulation, varience, ſtrife, <hi>&amp;c?</hi> So in this thing you will make your ſelves manifeſt which ſpirit leads you, and whoſe children you are. Search the Scriptures, and ſee if theſe things be not ſo.</p>
+               <closer>
+                  <signed>Robert Rich.</signed>
+               </closer>
+            </div>
+            <div type="petition">
+               <pb n="36" facs="tcp:116509:23"/>
+               <head>To the Parliament of <hi>England, &amp;c</hi>
+               </head>
+               <argument>
+                  <p>
+                     <hi>The humble Petition of</hi> Robert Rich, <hi>(ſirnamed,</hi> Mordicai) <hi>on the behalf of himſelf, and all the Seed of the Jews, which wait for the conſolation of Iſrael, that are of an upright heart, ſcat<g ref="char:EOLhyphen"/>tered throughout theſe three Nations of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>whether in Forms or in Profeſſions, or out of them.</hi>
+                  </p>
+               </argument>
+               <opener>Humbly ſheweth,</opener>
+               <p>THat ever ſince the yeer 1648. it was hoped that Opreſſion and all Perſecution for conſcience ſake, would utterly have ceaſed, according to what hath often been declared; and inſtead thereof that Truth and Mercy would have taken place. But con<g ref="char:EOLhyphen"/>trary thereto within theſe three yeers laſt paſt, have many hun<g ref="char:EOLhyphen"/>dreds (even in this one Nation of England, in all pars there<g ref="char:EOLhyphen"/>of) been caſt into Priſons, Dungeons and Holes, and ſome have periſhed therein; and others have endured cruel whippings, ſtonings, and other bodily puniſhments, beſides the ſpoiling of their goods, for no other cauſe ſave for matters concerning the Law of their God, and that for conſcience ſake they could not bow to <hi>Hamans</hi> nature; not ſo much as one known Law of this Nation proved that they had tranſgreſſed.</p>
+               <p>The Premiſes being conſidered,</p>
+               <p>My humble requeſt is, <hi>That the Innocent in all Priſons through<g ref="char:EOLhyphen"/>out theſe Nations may be ſet at Liberty (that onely for eonſcience ſake ſuffer) And more particularly, in caſe there be yet behinde of the ſufferings of</hi> James Nayler <hi>to be file'd up, that it may be acted in my body.</hi>
+               </p>
+               <closer>And I ſhall ever pray for the peace of Jeruſalem, and for all them that love her proferity,
+<signed>ROBERT RICH.</signed>
+               </closer>
+               <epigraph>
+                  <q>Bleſſed is he that conſidereth the poor and needy, the Lord will de<g ref="char:EOLhyphen"/>liver him in he time of trouble, and cover his head in the day of Battel. Let none become Judges of evil thoughts.</q>
+                  <bibl> Jam. 2. 4.</bibl>
+               </epigraph>
+               <closer>
+                  <signed>Rob. Rich.</signed>
+               </closer>
+            </div>
+            <div type="queries">
+               <pb n="37" facs="tcp:116509:23"/>
+               <head>Quaeries given to the Speaker of the Houſe, and ſeveral other Members of Parliament.</head>
+               <p n="1">1. WHether the anointing of the Father be not the Chriſt? <hi>(Exod.</hi> 40. 15. <hi>Pſal.</hi> 89. 20. <hi>&amp;c. Pſal. 45. 7. Heb. 1. 9. Iſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 61. 1. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſal.</hi> 104. 6. to the 16. 1 <hi>Joh.</hi> 2. 27. 2 <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 1. 21) and whether he was not compleat Chriſt the Son of God before he took upon him that fleſh in which he ſuffered at Jeruſalem, yea, before the ſoul or body of man or the world was <hi>(Prov.</hi> 8. 22. to the 32. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. 1, 2, 3, 4. <hi>Jo.</hi> 8. 58. <hi>Joh. 17. 5. Eph.</hi> 4. 10.) And whether the Name Chriſt reach not over the whole body, anoin<g ref="char:EOLhyphen"/>ted from the beginning of the world to the end? (1 <hi>Cor.</hi> 1. 12)</p>
+               <p n="2">2. Did not Chriſt Jeſus ſpeak in other Veſſels? and was he not perſecuted in other Veſſels beſides that wherein he was lift<g ref="char:EOLhyphen"/>ed up at Jeruſalem? and if he had ſaid in thoſe Veſſels, he was not the Chriſt, whether he had lyed or no? <hi>(Acts 9. 4. 2 Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 13. 3. 1 Cor. 7. 10, 12. Phil. 1. 20. Rom. 8, 9, 10. Rom 10. 6, 7, 8. 1 Cor.</hi> 1. 24.)</p>
+               <p n="3">3. Doth not the Scripture ſay, God will write his Name on him that overcomes? <hi>Rev.</hi> 3. 12. which Name he is to beare before Kings and Rulers, <hi>Acts</hi> 9. 15. which if he deny, ſhal he not be denyed before the Father in Heaven? <hi>Matth.</hi> 10. 33. And if God doth reveal what he hath written to any other of his chil<g ref="char:EOLhyphen"/>dren, and command him to confeſſe it, whether his obedience be blaſphemy, yea or nay?</p>
+               <p n="4">4. Did Chriſt ever appear in the world, and had not a body prepared? <hi>Heb.</hi> 10. 5: And did he ever come into the world and not in a vail? <hi>Heb. 10. 20. 2 Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 3. 13, 14. And whether thoſe that judged the Chriſt by looking on the outward vaile, could ever ſee the Chriſt, but became his perſecutors? Read <hi>Matth: 13. 55, 56. Joh. 5. 18. Jo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 10 33, to 38.</p>
+               <p n="5">5 Whether that which God begetteth in any creature be not the Seed of <hi>Abraham,</hi> which is the Chriſt? <hi>Gen. 22. 18. Heb. 2. 16. Gal. 3. 16. &amp; 29. 1 Joh</hi> 5. 18. the firſt-born amongſt many brethren, <hi>Rom</hi> 8. 29. And doth he not require the growth there<g ref="char:EOLhyphen"/>of to the meaſure, ſtature and fulneſs? <hi>Eph</hi> 4 12, 13. And whe<g ref="char:EOLhyphen"/>ther any can judg of that meaſure in another, to which he is not
+<pb n="38" facs="tcp:116509:24"/>
+grown in himſelf, without erring<g ref="char:punc">▪</g> 
+                  <hi>Rom.</hi> 12. 3. 2 <hi>Cor.</hi> 10. 3, 14, 15. And whether this hath not been the cauſe of all the inno<g ref="char:EOLhyphen"/>cent blood that hath been ſpilt from righteous <hi>Abel</hi> to this day; let the wiſe in heart judge.</p>
+               <p n="6">6. VVhether this begotten be not the onely begotten of the Father? <hi>Joh.</hi> 3 16. <hi>Jom.</hi> 1. 18 And whether this begotten be not the eternal Son of God? <hi>Heb.</hi> 1. 2, 3. <hi>Iſa.</hi> 2. 7. 1 <hi>Joh.</hi> 5. 11. The Rock of Ages, <hi>Iſa. 51. 1. Deut. 32. 18. 1 Cor.</hi> 10. 4 The Anoynt<g ref="char:EOLhyphen"/>ing; the Emanuel, <hi>Matth.</hi> 1. 23. The Saviour, <hi>Iſa.</hi> 63. 8 9. <hi>Obed.</hi> 21. The Lamb of God, <hi>Rev.</hi> 13. 8 <hi>Joh.</hi> 1. 29. The Prince of Peace, <hi>Iſa.</hi> 9. 6. and the great Myſtery, hid from Ages and Generations, Chriſt in you the hope of Glory, <hi>Col.</hi> 1. 26, 27. The ſtumbling<g ref="char:EOLhyphen"/>ſtone, and a Rock of offence laid in Sion. <hi>Iſa.</hi> 8. 14. 1 <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2. 7, 8. and the Chriſt Jeſus this day, he was yeſterday, and will be for ever, <hi>Heb.</hi> 13. 8.</p>
+               <p n="7">7. Whether Chriſt Jeſus be not our example? <hi>Joh.</hi> 13. 14, 15. 1 <hi>Pet.</hi> 2. 21, 22. <hi>James</hi> 5. 10 And if any of his brethren or mem<g ref="char:EOLhyphen"/>qers do, or ſuffer to be done, the ſame he, or the Prophets of God did, whether this be blaſphemy? 1 <hi>Sam.</hi> 25. 23, to 33. 2 <hi>Kings</hi> 4. 27, 37. <hi>Dan.</hi> 2. 46. <hi>Matth.</hi> 26. 7, 8. <hi>Luke</hi> 17 16. <hi>Heb.</hi> 1. 6. And whether Chriſt Jeſus where he is now made manifeſt, may not have the ſame love &amp; honour he formerly had? And if any be moved of the Lord to give it him, whether that be blaſphe<g ref="char:EOLhyphen"/>my?</p>
+               <p n="8">8. If any Prophet in theſe our dayes ſuffer to be done to him what the Prophet <hi>Eliſha</hi> did, 2 <hi>Kings</hi> 4. 27, &amp; 37. who permitted a woman to fall down at his feet, and did not reprove her, but did reprove <hi>Gehaz<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> who would have put her from him; or ſhould any now do as <hi>Damel</hi> did, <hi>Dar.</hi> 2 46. who permitted <hi>Ni<g ref="char:EOLhyphen"/>buchadnozer</hi> to fall down at his feet. and worſhip him? Whe<g ref="char:EOLhyphen"/>ther this in <hi>Daniel</hi> or <hi>Eliſha</hi> were blaſphemy?</p>
+               <p n="9">9. Whether to call any one Chriſt (in a ſpiritual ſenſe) that is annointed with the Spirit of God, or to call any Jeſus that is ſaved from their ſin, or ſaveth others, as <hi>Joſhua, &amp;c. Obad</hi> 21. be blaſyphemy? and if it be, Whether all manner of blaſ<g ref="char:EOLhyphen"/>phemy againſt the Son of Man ought not to be forgiven in this world, <hi>Matt<g ref="char:punc">▪</g>
+                  </hi> 12. 31, 32.</p>
+               <p n="10">
+                  <pb n="39" facs="tcp:116509:24"/>
+10. Whether this be not true blaſphemy according to the Scripture for one to ſay that he is a chriſtian, or member of Chriſt, that is a lyar, a covetous or proud man, or that worſhip<g ref="char:EOLhyphen"/>peth the creature more then the creator; or that hateth his bro<g ref="char:EOLhyphen"/>ther? (Read and underſtand, <hi>Rev.</hi> 2. 9. &amp; 3. 9.) And if ſuch be blaſphemers yet whether the Law of God, or of this Nation, doth allow they ſhould dy, or ſuffer any other bodily puniſhment as bad, or worſe then death for the ſame.</p>
+               <p n="11">11 If any ſhould worſhip an Angel, <hi>(Rev.</hi> 22. 9.) whether that be blaſphemy, or deſerve cruel tortures, as bad or worſe then death? Or is to be ſeen throughout the Scriptures, that any Magiſtrate had power from God to puniſh for ſin only a<g ref="char:EOLhyphen"/>gainſt him till ſuch time as the mind and will of the Lord be firſt known, and a command given; and is it not written, <hi>Vengeance is min, and I will repay it, Rom:</hi> 12. 19.</p>
+               <p>Theſe eleven queries I preſent to you who ſit in Parliament, and ſuch as are ſpiritual to udge and conſider of them; and for thoſe that are ſenſual, not having the ſpirit, my deſire is, that they would not judge of the things they know not, leſt they con<g ref="char:EOLhyphen"/>demn the Members of Chriſt as blaſphemers, and ſo bring upon themſelves all the innocent blood ſpilt ſince the foundation of the world to this day.</p>
+               <p>Friends, <hi>Let it not be forgotten, how that often the Lord hath ſent me amongſt you, for to adviſe and warn both by word of mouth and writing, that you might<g ref="char:punc">▪</g> keep your hands clear from the blood of all mer; and there is few amongſt you that hath not ſeen the ſword of the Lord drawn againſt your proceedings ſince you c<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tred on the bu<g ref="char:EOLhyphen"/>ſineſs of</hi> James Nayler: <hi>And now in the ſight of the Lord my God (ha<g ref="char:EOLhyphen"/>ving warn d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>you) am I juſtified; and for thoſe that have curſed where the Lord would not curſe, the blood will be upon their own heads; &amp; for ſuch amongſt you as have had their ear opened to diſcipline, that have not condemned the Juſt, and have pleaded the cauſe of the poor and needy<g ref="char:punc">▪</g> lift up your head, &amp; be faithful to the Lord in what he makes manifeſt, and you ſhall finde his ſalvation neere, and promiſe ful<g ref="char:EOLhyphen"/>filled; That he will deliver you in the time of trouble, and cover your heads in the day of Battel.</hi>
+               </p>
+               <closer>
+                  <signed>Rob: Rich.</signed>
+               </closer>
+            </div>
+            <div type="discourse_offering">
+               <p>
+                  <pb n="40" facs="tcp:116509:25"/>
+To you that are honourable in this houſe, who are of ſober minds, and loves the thing that is right and juſt, am I of the Lord made willing to offer (in caſe it be thought by you fit) to diſcourſe of the things in particular, and at large, that hath been either ſaid or done by Iames Nayler, with thoſe five Miniſters that were ſent to him into the priſon a little before his laſt ſuf<g ref="char:EOLhyphen"/>ferings at London; and doubt not but by the help of my God, to prove him by the Scriptures clear (both in his judgement and practice) of Blaſphemy. And the rather do I deſire to have to do with thoſe five Miniſters herein, for that they did not deal with him (and doubt whether they have not done the like by you) as men of integrity and faithfulneſs ought to have done; for they would not permit any one perſon, friend, or other, to be preſent to bear witneſs of what paſſed between them; which Iames Nayler perceiving, ſaid to them, that unleſs they would write down their queſtions and his anſwers thereto, and after<g ref="char:EOLhyphen"/>wards leave a copy thereof with him he would make no anſwer to them; ſo they promiſed they would; But wheu they had aſ<g ref="char:EOLhyphen"/>ked what queſtions they thought good, aud he having anſwered the ſame, they took what they had writ, and caſt into the fire and burnt it, leaving no copy with him as they had promiſed. Let the wiſe in heart judge whether this were done like Miniſters of Chriſt, or like the chief Prieſts that ſought to catch him in his words: This thing is offered by me. That if there be found wic<g ref="char:EOLhyphen"/>kedneſs with <hi>James Nayler,</hi> either in Judgement or Practice, that it may be publiſhed and made known to the Nation; or if the Miniſters be found ignorant of the Scriptures and Power of God, they likewiſe may be made manifeſt, that no longer they may de<g ref="char:EOLhyphen"/>ceive the Nations:</p>
+               <p>And one of theſe five Miniſters (namely Mr: <hi>Ny<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>)</hi> hath de<g ref="char:EOLhyphen"/>clared (as was affirmed in Weſtminſter-Hall by one Mr: <hi>Smith,</hi> a Parliament man, That the ſaid Mr: <hi>Nye</hi> told him, That coming where ſome quakers were met together, he found amongſt them a Jeſuit which he knew, and of what colledge he was of beyond the Seas, and that they ſpake Latine to each other: So I asked Mr: <hi>Smith</hi> what was become of the Jeſuit; he anſwered he knew not, but ſuppoſed he was gone; ſo I deſired the Parliament men then preſent for to take notice who were the favourers or con<g ref="char:EOLhyphen"/>concealers
+<pb n="41" facs="tcp:116509:25"/>
+of the Jeſuits, the quakers or Mr. <hi>Nye:</hi> The Mem<g ref="char:EOLhyphen"/>bers of Parliament then preſent, whoſe Names I knevv, vvere captain <hi>Bains,</hi> Judge Advocate <hi>Margeret,</hi> Serjeant <hi>Berkhead,</hi> be<g ref="char:EOLhyphen"/>ſides others vvhoſe Names I knevv not.</p>
+               <p>This is vvritten, that the Parliament may examine and finde out vvho are the Juſuits friends:</p>
+               <closer>
+                  <signed>Robert Rich:</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Tomlinson">
+               <epigraph>
+                  <q>AFter the tares appeared, then came the ſervants of the housholder and ſaid unto him, Wilt thou that we go and gather them up? But he ſaid, Nay, leſt while ye go about to gather the tares, ye pluck up alſo with them the Wheat: Let both grow together until the Harveſt,</q>
+                  <bibl>
+                     <hi>Matth.</hi> 13. 26. <hi>&amp;c.</hi>
+                  </bibl>
+               </epigraph>
+               <p>
+                  <hi>This is the Doctrine of Chriſt Ieſus our Lord.</hi>
+               </p>
+               <p>Such care hath Chriſt Jeſus of the Wheat, that he will not that his Ser<g ref="char:EOLhyphen"/>vants pluck up the tares until the Harveſt, the end of the world, leſt they pluck up the Wheat with them; this is his wiſdom,</p>
+               <p>But ſome men pretend ſuch care for the wheat, that they will have the tares pluck up before the Harveſt; this is their wiſdom.</p>
+               <p>Now minde whoſe wiſdom you follow, and whoſe Doctrine you obey; for you can do Chriſt Ieſus no ſervice in going contrary to his own Do<g ref="char:EOLhyphen"/>ctrine, though ſome may think they do, <hi>Ioh.</hi> 16. 2, 3. <hi>They</hi> shall think they do God ſervice when they are killing his ſervants, miſtaking them for his great Enemies, for elſe they would not kill them to do him ſervice.</p>
+               <p>My deſire is, that you may be found in the counſel and Doctrine of Chriſt Ieſus, which is ſafe, and keeps from that danger of shedding inno<g ref="char:EOLhyphen"/>cent blood.</p>
+               <closer>
+                  <signed>Will. Tomlinſon.</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Tomlinson">
+               <p>You have called him a blaſphemer, we deſire that you would publish what his blaſphemy is, that we may know it and take heed of it. Chriſt Ie<g ref="char:EOLhyphen"/>ſus himſelf was called a blaſphemer, becauſe he ſaid, <hi>I am the Son of God;</hi> and ſaith <hi>Iohn, 1 Ioh. 3. 2. Now are we the Sons of God.</hi>
+               </p>
+               <closer>
+                  <signed>W. T.</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Tomlinson">
+               <p>THE neer relation between Chriſt Jeſus and his Father being owned by him, was counted in him blaſphemy, becauſe he ſaid, <hi>I am the Son of God.</hi>
+               </p>
+               <p>Take heed leſt the neer relation between Chriſt and his Members whom he calls Brethren, be not now counted blaſphemy where it is owned.</p>
+               <p>And conſider theſe Scriptures.</p>
+               <p>
+                  <hi>Now are we the ſons of God through Chriſt,</hi> ſaith <hi>Iohn, 1 Ioh. 3. 2. If a ſon then an heir of God,</hi> ſaith <hi>Paul, Gal. 4. 7. If ſons, then heirs, heirs of God, and joint-heirs with Chriſt, Rom. 8. 17.</hi>
+               </p>
+               <p>
+                  <hi>Him that overcometh will I make a Pillar in the Temple of my God, and I will write upon him my new Name,</hi> ſaith Chriſt Jeſus, <hi>Rev. 3. 12, 13. He that hath an ear let him hear what the Spirit ſaith unto the Churches.</hi>
+               </p>
+               <p>
+                  <pb n="42" facs="tcp:116509:26"/>
+If you be able to ſee theſe things, do; but if not, take heed what you do, leſt you bring innocent blood upon your own heads.</p>
+               <p>
+                  <hi>There</hi>'s none able to <hi>judge</hi> of theſe things before the luſts of the flesh, land the luſts of the eyes, and the pride of life be <hi>judged</hi> and overcome in them, and the love of the world.</p>
+               <p>That's blaſphemy for a man to ſay he is a Jew or a Chriſtian, and is not, but ſtill is in the old nature, that was a murderer from the begining; he blaſ<g ref="char:EOLhyphen"/>phems the Name of God, <hi>Rev.</hi> 2. 9. for God hath no ſuch children in the New Covenant. As it was then, he that was born after the flesh perſecuted him that was born after the ſpirit, ſo it is now, <hi>Gal.</hi> 4. 29. But he that is born after the ſpirit never perſecutes him that is born after the flesh.</p>
+               <closer>
+                  <signed>W. T.</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Tomlinson">
+               <p>FRiends, your hands have hitherto been held from shedding of blood; conſider what it is that hath withſtood you, and kept you from it, and do not go on to ſtrive any longer againſt the Lord; but remember <hi>David</hi> how glad he was that he was prevented from blood, when he was going with a full reſolution, and the thing was gone out of his mouth to deſtroy the Houſe of <hi>Nabal, 1 Sam. 25. 22, 32, 33. Bleſſed be the Lord God of Iſrael</hi> (ſaith he) <hi>which hath ſent thee this day to meet me, and hath kept me this day from com<g ref="char:EOLhyphen"/>ing to shed blood,</hi> and this was, but the blood of a wicked man. So Friends conſider, and ſtrive not againſt the goodneſſe of the Lord, which hath hi<g ref="char:EOLhyphen"/>therto withſtood you, and kept you off from shedding of blood, and that with little force. It will be no grief of heart to you that you have not shed blood, but to shed it may lie heavier upon you then yet you are a<g ref="char:EOLhyphen"/>ware. <hi>To</hi> let the tares (if tares) alone with the wheat, according to <hi>Chriſts</hi> own Doctrine; this will not repent you, becauſe it is his own command; but under pretence of plucking them up, to puil up one of the leaſt of his Lambs, this will be a burthen too heavy for you to bear; and though you may think you do God ſervice therein, yet he accepts it not. <hi>To</hi> ſeek the harm of one that would not hurt an hair of your heads, conſider whence this is, and what acceptance this would have with God, ſeeing he ſaith, <hi>He that toucheth you</hi> (the innocent lambs) <hi>toucheth the apple of mine eye; herefore touch not mine anointed, do my Prophets no harm,</hi> ſaith the Lord; and bleſſed be their work who are made tender of them, for what's done to one of the leaſt of thoſe that belong to Chriſt, is done to him.</p>
+               <closer>
+                  <signed>William Tomlinſon.</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Tomlinson">
+               <p>They are very confident, who kill Chriſts Lambs, to do God ſervice, that thoſe they kill are not his Lambs, but his Enemies, elſe they would not kill them to do Him ſervice; for they could not think it ſervice to God to kill his children: yet ſee how far their confident zeal is miſtaken, while they think they kill his enemies, they kill the children of the Kingdom. <hi>Thus</hi> it happened to <hi>Chriſt,</hi> the zealous Jews were very confident he was a Blaſ<g ref="char:EOLhyphen"/>phemer, and Seducer of the people, and therefore they durſt ſay, <hi>His blood be on us, and on our children;</hi> upon the ſame account the members alſo of
+<pb n="43" facs="tcp:116509:26"/>
+                  <hi>Chriſt</hi> alwayes ſuffer, as Blaſphemers, as Hereticks, as Seducers of the peo<g ref="char:EOLhyphen"/>ple. You are now up on this danger, and trial of your ſpirits. Now why is it that in this confident zeal they kil his <hi>Children,</hi> taking them for ene<g ref="char:EOLhyphen"/>mies? It is <hi>(ſaith Chriſt Ieſus) becauſe they know not the Father nor me, Ioh.</hi> 16. 2, 3.</p>
+               <p>Now examine your ſelves you that are for killing, or hurting; Do you know the <hi>Father?</hi> Do you know <hi>the Son?</hi> Have you communion and fel<g ref="char:EOLhyphen"/>lowship with them? Is <hi>the Son</hi> begot in you? Is He formed in you? Are you come into His innocent nature? if not, your confidence and zeal will deceive you, and you ſtand in that nature that will kil <hi>children for enemies;</hi> for you cannot know <hi>them</hi> til you know <hi>his nature brought forth in you.</hi> And if His Nature be once brought forth in you, you wil ſinde a ſaving ſpirit raiſed up in you, not a deſtroying ſpirit; for <hi>Chriſt</hi> and every meaſure of Him is a Saviour, not a Deſtroyer; and ſo from <hi>Chriſt the</hi> Saviour ſpiring up many Saviours, <hi>Obad.</hi> v. 21. He that is the deſtroyer and perſecutor, is yet in <hi>the</hi> old Covenant, <hi>Hagar,</hi> He is but the ſon of the bond-woman, which is yet in bondage with her children, and is to be caſt out, <hi>Gal.</hi> 4. 22. to <hi>the</hi> end. And if ever you come to witneſs <hi>the</hi> new Covenant, and <hi>the</hi> Law of God writ in your hearts, and <hi>the</hi> nature of Chriſt formed in you, you will ſinde <hi>the</hi> perſecutor in you caſt out, and that it enters not the King<g ref="char:EOLhyphen"/>dome; for <hi>there</hi>'s nothing hurts nor deſtroyes in all Gods Holy Mountain, <hi>Iſa.</hi> 11. 9.</p>
+               <closer>
+                  <signed>Wil. Tomlinſon.</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Tomlinson">
+               <p>You who are for killing, or otherwiſe harming, I appeal to that of God in your own conſciences, which will witneſſe faithfully, Do you ſinde the Spirit of God witneſſing in you, that you are the Sons of God? Do you finde that hope in you, that purifies you as the Son of God is pure? 1 Joh. 3. 3. that faith that purifies the heart? Acts 15. 9. Are you become dead to the world? are you dead to the luſts of the fleſh, to the luſts of the eyes, and pride of life? Have you mortified the fleſh with the affections and luſts thereof? Is your converſation in heaven? Or, are you not yet among thoſe that think theſe things impoſſible, not knowing the power of God? Are you not yet in the reprobate ſtate, not knowing Chriſt in you? Are not ſome of you ſuch as will deride, and ſcorn, and are full of bitterneſs? Are not ſome of ſelf<g ref="char:EOLhyphen"/>iſh, covetous, high-minded, far from little children? Now if you be ſuch, how can you be able to ſee the high things of the Kingdom of God, who cannot yet ſee the low things, the beginnings, the entrances; for till you be<g ref="char:EOLhyphen"/>come as little children, you cannot ſee them, Matth. 18. 18. 3. Joh. 3. 3. and while you are in your natural condition you cannot ſee them, 1 Cor. 2. 14. The natural man perceives not the things of the Spirit of God, neither can he know them. How then ſhould he that's ſuch be able to judg of them? How can you that are judg ſuch of the high things of God, and not count them blaſphe<g ref="char:EOLhyphen"/>my? How can you hear one ſpeak of Saviours and not count it blaſphemy, though the Scripture hath ſpoke it, Obad, ver. 11. How can you hear it that a feeble one ſhall be as <hi>David,</hi> and the houſe of <hi>David</hi> as God? as the An<g ref="char:EOLhyphen"/>gel
+<pb n="44" facs="tcp:116509:27"/>
+of the Lord, Zech. 12. 8. How can you hear it, that we ſhould be Co-heirs with Chriſt Jeſus, if you conſider what a Co-heir is? How can you hear it that any ſhould ſit in the Throne of Chriſt with him, and have power over the Nations, Rev. 3. 21. &amp; 2. 26, 27. and have the Name of Chriſt put upon him; yea, though Chriſt put it upon him, Rev. 3. 12. How can you that are ſuch hear theſe things &amp; ſuch like, and not count them blaſphemy (though the Scri<g ref="char:EOLhyphen"/>pture hath ſpoken them) any more then the zealous devout Jews could hear that Chriſt ſhould be called the Son of God without counting it blaſphemy? Therefore learn this counſel that Chriſt hath given, Firſt judge your ſelves, leſt you be judged for judging things above your meaſure.</p>
+               <closer>
+                  <signed>VVill. Tomlinſon.</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Tomlinson">
+               <p>
+                  <hi>VVhat ſhall be done to the man whom the King will honor? Let the Royal Appa<g ref="char:EOLhyphen"/>rel be brought which the King uſeth to wear, and the horſe that the King ridethou, and the Crown royal which is ſet upon his head; and let his apparel and horſe be deli<g ref="char:EOLhyphen"/>vered to the hand of one of the Kings moſt noble Princes, that they may array the man withal whom the King delighteth to honor, and bring him on horſeback through the ſtreers of the City, and proclaim before him. Thus ſhall it be done to the man whom the King delighteth to honor. And thus by the command of the King it was done to</hi> Mordicai, <hi>a Type of that Spirit that cannot how to proud</hi> Haman, Eſth. 6.</p>
+               <p>
+                  <hi>Hath an earthly King this Power to impart of his own honour to his Servants? and hath Chriſt Ieſus, King of Kings, and Lord of Lords, no power to impart of his honor to his ſervants whom he makes Kings?</hi>
+               </p>
+               <p>
+                  <hi>Was it no Treaſon or Blaſphemy againſt the King for</hi> Mordicai <hi>to receive this honor and not to rebuke it? And muſt ſuch a thing be blaſphemy (if ſo done) among the Lambs of Chriſt, to give and receive of Chriſts. Honors at his command in ſigue of his approaching and coming again?</hi>
+               </p>
+               <p>
+                  <hi>Hath not Chriſt Ieſus our Lord power to put his own Honors, Names, Titles, Ho<g ref="char:EOLhyphen"/>ſannahs upon his ſervants, as well as King</hi> Ahaſuerus, <hi>to put his Crown and Appa<g ref="char:EOLhyphen"/>rel Royal upon one of his who was found faithful?</hi>
+               </p>
+               <p>
+                  <hi>Hath not Chriſt ſaid, He that overcometh ſhall ſit with me in my Throne, even as I alſo overcame, and am ſet down with my Father in his throne? Hath he Power to impart his throne which is greater, and which he received after he departed; and hath he no Power to impart his Hoſannahs (if he pleaſe) which is leſs, and which he had here on earth among and from babes and ſucklings?</hi>
+               </p>
+               <p>
+                  <hi>And how know you that he did not command this thing to be done (if done)?</hi>
+               </p>
+               <p>
+                  <hi>Hath not Chriſt Ieſus ſaid, He that overcometh, him will I make a Pillar in the temple of my God, and he ſhall go no more out; and I will write upon him the Name of my God, and the Name of the City of my God, New Ieruſalem, which cometh down out of Heaven from my God, and I will write upon him my New name. He that hath an ear let him hear. Can this be but it will be accounted blaſphemy by the blind world who live in continual blaſphemy, calling themſelves Chriſtians and are not. There<g ref="char:EOLhyphen"/>fore conſider what you are doing, you whoſe mouths are opened againſt that ye under ſtand not,</hi>
+               </p>
+               <closer>
+                  <signed>Will: Tomlinſon:</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Fox">
+               <pb n="45" facs="tcp:116509:27"/>
+               <head>To the Protector, and</head>
+               <p>TO you who are choſen by theſe Nations to be the Parliament of Eugland, to divide, rule and govern things, this is the Word of the Lord God to you; Take heed of acting againſt Chriſt where he is made manifeſt; take heed of acting or doing any thing againſt them that be in the pure Religion, or acting any thing againſt Reli<g ref="char:EOLhyphen"/>gion; how know you but this thing is fallen out to try you whether or no you act againſt Chriſt where he is manifeſt in his Members; for it is ſaid, <hi>Chriſt in you;</hi> and if Chriſt be in you, the body is dead becauſe of ſin; and if Chriſt be within, may not he ſpeak in Righteouſneſs, and be confeſsed there? Now if Jeſus Chriſt be not in you (mark) Jeſus Chriſt be not in you, ye are reprobates; and if Chriſt be within muſt he not ſpeak (mark) Ieſus Chriſt the Emanuel, the ſame; is it offence for Chriſt to ſpeak, and Jeſus to ſpeak where he is within? Now ex<g ref="char:EOLhyphen"/>amine your ſelves; know not you your ſelves how that Jeſus Chriſt is in you except ye be reprobates? And if Je<g ref="char:EOLhyphen"/>ſus Chriſt be in you muſt he not ſpeak in you; Is it not he that muſt ſpeak? for the natural man receives not the things of God, becauſe they are ſpiritually diſcorned, &amp; they are fooliſhneſs unto him; and did not the Apoſtle ſay, He did not live, but Chriſt, it was Chriſt that lived in him (mark again) it was Chriſt that lived in him; if it was Chriſt that lived in him, it was Chriſt that ſpake in him, &amp; the life that he lived it was by the faith of the Son of God (mark) what a life was this; and did he not ſay that the Son of God was revealed in him? and if the Son be revealed in any, muſt it not be he that muſt ſpeak and declare of the Father? but people have had the form of godlineſs ſince the dayes of the Apoſtles, but have want<g ref="char:EOLhyphen"/>ed
+<pb n="46" facs="tcp:116509:28"/>
+the thing, &amp; wants the thing that the Apoſtles were in, who had the Son of God, Chriſt Ieſus, and therefore it is by them that have the form wondred and ſtranged at, and not the power of God wondred, eſtranged, where Chriſt Jeſus is manifeſted, and ſpeaks, and acts, and rules, was it not the Apoſtles Doctrine to preach Chriſt in them? and told them the hope of the Glory, which was in them, which was the Myſtery hid from ages and ge<g ref="char:EOLhyphen"/>nerations: And is not this Chriſt the hope of Glory a Myſtery in this age as it was in the days of the Apoſtles, to the world, and had been to generations before? and hath it not been a myſtery in the ages paſt amongſt them that have had the form of godlineſs ſince the Apoſtles? But where Chriſt within, this Myſtery, this hope of glo<g ref="char:EOLhyphen"/>ry is witneſſed, may he not ſpeak without offence? And did not Chriſt ſay he would come again to his Diſciples, and make his abode with them? And did he not ſay, I in you, and the ſpirit of the Father which ſpeaketh in you? They were not to take thought when they were brought before Rulers and Magiſtrates; and is not the ſpirit of the Father the ſpirit of Chriſt? And are not they that have not the ſpirit of Chriſt none of his?</p>
+               <p>Therefore take heed, I am moved to warn and charge you in the preſence of the Lord God (ye Rulers and Magiſtrates of this Nation) leſt ye be found acting a<g ref="char:EOLhyphen"/>gainſt the ſpirit of the Father where he ſpeaks in ſuch as are brought before you who have the form of godlineſs, ſuch as witneſs Chriſt in them, and the ſpirit of the Fa<g ref="char:EOLhyphen"/>ther to ſpeak, and the Son of God come according to his promiſe, which doth witneſs that fulfilled; doth not <hi>John</hi> ſay in his Epiſtle, That the Son of God was tome, and they were in him; and this was the true God and E<g ref="char:EOLhyphen"/>ternal life; and do not the Apoſtles in their ſeveral Epi<g ref="char:EOLhyphen"/>ſtles, which have been read amongſt you long, ſpeake
+<pb n="47" facs="tcp:116509:28"/>
+that Chriſt is in you, and of their being the ſons of God and the ſon of God revealed in them, and the ſpirit of the father in them, and Chriſt the myſtery in them? Have ye not heard theſe things read, and amongſt you? and have not theſe things long been hid amongſt them that have had the form of godlineſs; and Chriſt in the male and the female, and God will dwell in you, and walk in you; and the Word is in thy heart, and is not Chriſts Name called the Word of God? Now thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k you not it ſtrange to finde any to witneſs theſe things, and that theſe things ſhould be poſſeſsed; you that have had the form of godlineſs long, the night of the apoſtacie hath been long ſince theſe words were ſpoken forth, and the thing enjoyed that theſe words ſpake of; but now com<g ref="char:EOLhyphen"/>eth to be poſſeſſed the things that they did enjoy which ſpoke the words, which long they have had the form of in the night of the apoſtacie ſince the dayes of the Apo<g ref="char:EOLhyphen"/>ſtles: Now if it be not the ſpirit of God, nor the voice of the father, nor the ſpirit of Chriſt that ſpeaks in man, it is natural and deviliſh, and that is it that ſtands againſt the voice of Chriſt and the ſpirit of God; but if any meer creature by him made, ſaith that he is Chriſt, that is falſe, and is not ſo; for all creatures that were created were by him, and for him; and all things that were made were created for his ſervice, Chriſt Ieſus the Power of God, by which all things were made and created; and where the Power of God is, there is Chriſt, and Chriſt is the Power of God (take notice of that) the Power of God is everlaſting; where the Power of God is received and felt, Chriſt is received and felt; and where the Power of God ſpeaks, Chriſt ſpeaks; and ye that feel the Power of God, ye feel Chriſt, and will not be offended at the Pow<g ref="char:EOLhyphen"/>er of God where it ſpeaks, which is Chriſt, and ſo Chriſt is one in all who are in the povver; and vvhere the povver
+<pb n="48" facs="tcp:116509:29"/>
+of God doth not rule and ſpeak, the power of the devil that ſpeaks, and that is it which is tormented at the pow<g ref="char:EOLhyphen"/>er of God, which is Chriſt that ſpeaks; if the truth ſpeak, is it not Chriſt? Doth he not ſay, <hi>I am the Truth;</hi> and if the life ſpeak, is it not that I which is the Life? If the un<g ref="char:EOLhyphen"/>righteous ſpeak, it is a falſe thing; but iſ the power of God ſpeaks, it is the truth: If it be the power of God that ſpeaks, which is the true Chriſt, it is the power of the Devil, which is the falſe chriſt: So examine your ſelves, if Chriſt be in you the body is dead becauſe of ſin, and there the ſin is dead: And is not Chriſt Ieſus, which ex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ept he be in you ye are reprobates, is not he the Ema<g ref="char:EOLhyphen"/>nuel and the Saviour, and the Prince of peace? and is not he the prince of Life and the Hoſannah? and is not this witneſſed within where he is made manifeſt? or is he di<g ref="char:EOLhyphen"/>vided from theſe? and is not he the Lamb of God? and are not they againſt him where he is manifeſt with him that would not have him to ſpeak, &amp; ſuch as would not have him to raigne? Here you may ſee what hathbeen loſt ſince the Apoſtles, that they were in and rejoiced, this night of apoſtacie, which time had the form but not the power; but now is coming again to be made manifeſt which have been loſt, the Truth, the power of the form, and the life of Chriſt, and Chriſt himſelf the Emanuel: Therefore take heed of perſecuting that which is created and made by his power, where the power is received and dwelt in, for the powers ſake, which power is Chriſt, and which the power ſpeakes through, and where the power of God rules; where there is a fault the fault is judged; but where the ſeed is, that is to be owned; and it is not juſt that the mouth of the ſéed ſhould be ſtopped; in the fear of God and meekneſs vveigh and conſider theſe things before you act, and conſider what vvas in the Apoſtles that cauſed them to ſuffer.</p>
+            </div>
+            <div type="statement_from_Fox">
+               <pb n="49" facs="tcp:116509:29"/>
+               <head>POSTSCRIPT.</head>
+               <p>IF the ſeed ſpeake, which is Chriſt, he hath no other Name, for the ſeed is Jeſus Chriſt, and it is not blaſ<g ref="char:EOLhyphen"/>phemy, but truth; but if the ſeed of the ſerpent ſpeak, and ſay he is Chriſt, that is the Lyer and the Blaſphemer, and the ground of all Blaſphemy; and is not the ſeed which is Chriſt; but the head of the ſerpent is to be brui<g ref="char:EOLhyphen"/>ſed, which is the cauſe of all enmity, ſtrife and debate, with the ſeed of the Woman, which is Ghrift.</p>
+               <closer>
+                  <signed>George Fox.</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Fox">
+               <p>
+                  <pb n="40" facs="tcp:116509:30"/>
+Was not the appearance of <hi>Chriſt</hi> when He was born glorious, when that the voyce was cryed <hi>Hoſanna</hi> to the Higheſt? Was not this to the aſto<g ref="char:EOLhyphen"/>nishing of the beholders, and amazement of the world? did it not ſtir up all chief Prieſts, and <hi>Herod,</hi> was not He puzled about His Birth, and they troubled at his coming? did not the Chief Prieſts and Rulers gather againſt Him who was full of grace and truth? did not the glory of Him shew it ſelf forth when He went up unto Jeruſalem, when the high voice was ſpoken, and the ſongs to him ſung, the ſtrength ordained out of the mouths of Babes and ſucklings? and was not Jeruſalem the higheſt place of Worship? and did not the ſtrength which was ordained for the Babes and Sucklings, ſet the Prieſts and Rulers on rage againſt <hi>Chriſt,</hi> that they crucified and ſlew him? and did not that make <hi>Herod</hi> and <hi>Pilate</hi> friends in the higheſt place of Worſhip? did not He ſay, and tell his Diſciples, Hee would come again, the <hi>Hoſanna,</hi> Him that was cryed <hi>Glory to the Higheſt?</hi> And did not He come again to his Apoſtles accordin<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>o his promiſe, and make his abode with them, and ſup with them? Did not the Apoſtles ſay to the Saints that <hi>Chriſt</hi> was in them the myſterie, the hope of glory; and if He was in them, the body was dead becauſe of ſin? did not the Apoſtle ſay, <hi>Examine your ſelves, prove your ſelves, Know you not that Ieſus Chriſt is in you except you be Reprobates,</hi> [mark] <hi>Ieſus Chriſt in you, the Emmanuel, the Saviour, the Lamb of God, the Hoſanna;</hi> Is not his appearance in the Spirit as glorious in his ſecond coming, as it was at his firſt? is it not as much to be admired in the world as it was ever? Anſwer theſe things, and ſatisfie yourſelves: To the Light wherewith Chriſt Jeſus hath enlightned you all, I ſpeak, that with it you may ſee when you act againſt him where he is manifeſted.</p>
+               <p>To priſon them contrary to the Juſt is to make them to grow, and to ba<g ref="char:EOLhyphen"/>nish them is to shame your Religion, and not to own the thing the ſcrip<g ref="char:EOLhyphen"/>ture ſpeakes of, and to put them to death, is to deſtroy your ſelves.</p>
+               <closer>
+                  <signed>George Fox.</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Fox">
+               <p>
+                  <hi>Whether or no you will ſuffer Chriſt to have as much honor in the earth, and the world, as the Devil hath? Where Chriſt is manifeſted, whether or no he shall not have more honour, or as much, where he is manifeſted? And whether or no it is offence to bow to man, or to kneel before a Indgein the world? Whether this be offenſive to the world, amongſt the world, to bow before ſuch, and among ſuch the truth is not in? And whether or no it would not be offence to ſuch, to bow to Chriſt where he is manifeſted, and perſecute ſuch as do bow where the thing is in the truth; whether or no ſuch a thing may not be done in the truth, and bee a figure to all the bowings of the earthly Powers which be out of truth, which hath reigned above the ſeed of God? An example to you all:</hi> Therefore take heed and conſider, before you act any thing or judge, leſt God judge you after<g ref="char:EOLhyphen"/>ward, for be aſſured He will. <hi>Whether bowing in the Truth may not bee a fi<g ref="char:EOLhyphen"/>gure, that the ſeed of God shall riſe, and reign above the Earthly Powers, and they shall bow to it? And how know you but ſuch things as theſe may bee tryalls
+<pb n="42" facs="tcp:116509:30"/>
+to you, whether you will perſecute another, for taking that which is acted among you to your ſelves, in another way different from this?</hi> Now come to do as you would be done by, and do not perſecute that in another that is acted in the world, though it be profeſſed otherwayes in the intent, and come to the true meaſure and weight: and act nothing in your own wils, nor out of the counſel of God, to judge the juſt upon earth in this world, the juſt you'l be judged by, that is of the world to come, without end. I receive not Honor of man; <hi>Whether or no if any do perſecute the ſeed, which doth take the honor of God, which is over the world and it They themſelves do take the honor of the world, that perſecutes the contrary. Are theſe things judged with a juſt meaſure, and weighed with an equall ballance, yea or nay?</hi>
+               </p>
+               <closer>
+                  <signed>George Fox.</signed>
+               </closer>
+            </div>
+            <div type="statement_from_Fox">
+               <p>DID not Chriſt wash the Diſciples feet? Did he not do that as a pattern and example to thoſe that came after him, that they should do to one another? Have you washed one anothers feet? Have ye anointed one ano<g ref="char:EOLhyphen"/>ther with oyle that ſtumble at theſe where they are acted? Are not theſe the expreſſions of love to one another? And are not theſe things to be acted amongſt the Diſciples of Chriſt? Are not theſe things wonders amongſt you that do not wash one anothers feet, that be out of the example of the Lord? did not the Diſciples wash one anothers feet according to Chriſts example? Were not the Prophets feet washed? Did not <hi>Peter</hi> deſire his head o be washed? Do not wonder and ſtrange at theſe things where they are practi<g ref="char:EOLhyphen"/>ſed: Were not the Saints to ſalute one another with a holy kiſſe? and was not <hi>Peter</hi> to be carried whither he would not? Was there not a time that he girded himſelf? And is it not the Prince of the air that rules in the chil<g ref="char:EOLhyphen"/>dren of diſobedience, if it be not the Prince of Peace and the Lamb of God? And is it not an expreſſion of love and honor where there is the washing of one anothers feet? And for the washing or kiſſing of feet, it is but an ex<g ref="char:EOLhyphen"/>preſſion of love and humility? And is not this a patern and example to all you to judge you all how far short ye are of washing one anothers feet, or kiſſing one anothers feet; and do not wrong one another about theſe out<g ref="char:EOLhyphen"/>ward things, but to come to know the Seed of God, which bruiſeth the Ser<g ref="char:EOLhyphen"/>pents head, which would deſtroy and ſet one at enmity with another; that crusheth down theſe outward things, and reigns over theſe outward things; which ſeed of God comprehands all ſtrife, and comprehends the world; which ſeed the promiſe and bleſſing of God is to; in which ſeed is the unity, and not the enmity, for that is it which is bruiſed with it. Therefore do not shew your ſelves in enmity againſt theſe actions, where they are acted in the ſeed of God in righteouſneſſe, not in the world, out of the enmity; not as juſtifying the wicked in theſe things, nor condemning the righteous. Minde conſideration before you do judge of ſuch as are moved to act theſe things, whether or no they be not examples to you all, to try you all, whether or no you will perſecute, or lift up your hands againſt ſuch; and an act whereby
+<pb n="42" facs="tcp:116509:31" rendition="simple:additions"/>
+you may ſearch your ſelves, and ſee how far short ye come of a Diſciple: And come to that good in you all, that is of God, that with it you may over<g ref="char:EOLhyphen"/>come, if there be any thing that is evil, and the heaping the coles of fire upon that which is the adverſary: And whether or no there be not ſuch things to be acted in righteoſneſſe and ſimplicity, as washing the ſeet of the Diſciples, or that ſome may be carried whether they would not go; and if any should kiſſe the feet, or wash the feet of another in love and ſimplicity, is that ſuch a crime? And for Jeſus and Chriſt, and the prince of life and peace; if Jeſus Chriſt be within, the ſecond <hi>Adam</hi> is witneſſed, God with us, which is Jeſus; and be not offended with this, if any do witneſſe the State reconciled to God, who hath witneſſed the State drove from God, the firſt <hi>Adams</hi> ſtate, who witneſſes the ſecond <hi>Adams</hi> ſtate, the <hi>Emanuel,</hi> God with us. Again, Now be not ye offended at this, leaſt you do manifeſt your ſelves to be in the firſt <hi>Adams</hi> ſtate, driven from God, not witneſs Jeſus Chriſt, God with you reconciled to God again. But if you ſtand againſt this, it shews your ſelves to be in the tranſgreſſion, ſtanding againſt the <hi>Emanuel,</hi> which is God with us: Be not haſty in acting theſe things, but examine and conſider before you do act.</p>
+               <closer>
+                  <signed>George Fox:</signed>
+               </closer>
+            </div>
+            <div type="concluding_remarks">
+               <q>Except ye ſee ſignes and wonders ye will not believe: but this is come to paſs that the Scriptures might be fulfilled, that ſaith, the time will come, that they shall think they do God good ſervice when they kill you.</q>
+               <p>
+                  <hi>Remember the Scripture which ſaith, His face is more marr'd then any mans,</hi> Iſa. 52. 14. <hi>And whether this be not the ſame that gave his Checks to the Smiter, and opened not his mouth? And ſee now who they are that have ſpit upon him; but what evil hath he done.</hi>
+               </p>
+               <p>
+                  <hi>Notwithſtanding all theſe warnings, yet on the 17. day of the tenth moneth, the major part of the Houſe pronounced Sentence on him.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="supporters_account">
+            <pb n="49" facs="tcp:116509:31"/>
+            <head>A brief Account of the Grounds of the Petitioners that appeared for <hi>James Nayler.</hi>
+            </head>
+            <head type="sub">With the Copies of their Petitions, for ſatisfaction of all mode<g ref="char:EOLhyphen"/>rate ſpirits.</head>
+            <p>GOd who worketh all things, according to the Coun<g ref="char:EOLhyphen"/>ſell of his own Will, is oft times pleaſed to make uſe of extremities, and by them to point out unto his people their duty; Thus did he Order, that the encreaſed tyrannies and oppreſſions of <hi>Iſrael</hi> in the Land of <hi>Egypt,</hi> ſhould preſſe forth their cries and tears unto the Lord, that he might thence take his riſe to appear for them: So in the daies of the Biſhops of late years, the tryals and ſuffe<g ref="char:EOLhyphen"/>rings of the people of God, have come to ſome head and ripe<g ref="char:EOLhyphen"/>neſſe, before He hath bin provoked to deliver them, as we might inſtance both in <hi>Scotland</hi> and our own Nation. Even ſo fareth it with the poor people of God at this day, who ha<g ref="char:EOLhyphen"/>ving been for ſome time aſleep and in a pleaſing dream, as if the ſtorms were over, and the Winter were paſt and gone, are awakened by a freſh Alarm, to conſider and behold the ſame ſpirit of perſecution and blood, revived again in the boſome of that worldly peace and glory, wherein we have delighted to ſtand forth in the Image of the Nations. How much bet<g ref="char:EOLhyphen"/>ter and ſafer had it been for us, to have ſtood by the Lord in his founding of <hi>Zion,</hi> waiting for his Counſel (who ſtood by us in our deſtroying the groſſer <hi>Babylon)</hi> and to have been of the poor of his people that truſt in it, and not of thoſe that exerciſe dominion over it. There is a poor contemptible peo<g ref="char:EOLhyphen"/>ple whom God hath pleaſed to call forth out of all the Sects and Diviſions in this Nation, both Profeſſors and Non-pro<g ref="char:EOLhyphen"/>feſſors, whoſe principles and waies have bin fitted and pre<g ref="char:EOLhyphen"/>pared, to give check or confront at leaſt, to that Spirit of Lord<g ref="char:EOLhyphen"/>lineſſe and formality, that after the throwing down of the old
+<pb n="50" facs="tcp:116509:32"/>
+Fabrick of a painted and pompous Church and State, was but too apt to ſpring up again among us; which is the beſt account we can at preſent give, why God ſhould ſuffer ſo ma<g ref="char:EOLhyphen"/>ny upright ſouls, to be ſnatcht from their former communi<g ref="char:EOLhyphen"/>on and walking, into ſo exaſperating a way. There was ſome<g ref="char:EOLhyphen"/>thing of the meaſure of the ſufferings of Chriſt yet behind; and of the Spirit of Antichriſt, yet to be vented and acted upon our Engliſh Theatre. And truly, not without ſome regret in our ſelves, have we heard &amp; obſerved the long &amp; oft repeated ſuf<g ref="char:EOLhyphen"/>ferings of that poor people who have bin whipt &amp; impriſoned <note place="margin">As <hi>Eve<g ref="char:EOLhyphen"/>ſham</hi> can witneſſe.</note> in many parts of this Nation, thruſt into holes and dungeons, where they have ſcarce had the liberty to breathe; and all this for nothing as far as we underſtand, but what peaceable people may do without any diſturbance to the civil peace and quiet of the Nation. We hope what we have writ is clear, and we may eaſily be underſtood herein, not to approve their ſcheme of doctrine, as abſolutely clear and Evangelical; but who knows what ſufferings may do, to the purifying and refining thereof? But thus have we ſtood gazing upon them, not pleading their Cauſe, becauſe diſguſting ſome of their Princi<g ref="char:EOLhyphen"/>ples, till the Wiſdom of God ſaw good, to give us a freſh and louder Alarm (not in our Ears only, but before our Eyes) in the bitter uſage of <hi>James Nayler</hi> one of the very chief of that people, (though now dis-owned by the generallity of them, whoſe caſe therefore is the more reſpected by us<g ref="char:punc">▪</g>) So that we could no longer, as perſons unconcern'd keep ſilence, but we muſt appear for him in a Petition to the Parliament. And this we could not refuſe, unleſſe we would renounce that Love, that Light, that Cauſe, and thoſe Principles, we have all along for ſome years profeſſed and avowed.</p>
+            <p>But how low and tender theſe firſt buddings of our charity were, the Petitions themſelves will ſhew, which yet were as high as we could well go, or the Parliament bear. And we were not ſo modeſt, but ſome thought us too bold and daring, to appear in ſuch a Cauſe, for ſuch a perſon ſo obnoxious in their account; for which we could offer many, and thoſe very great conſiderations.</p>
+            <p>As I, and principally, the honour of that Cauſe, for which
+<pb n="51" facs="tcp:116509:32"/>
+we have ſuffered the loſſe of a thouſand other things, we mean Conſcience-liberty, which we conceive to ſtand in nothing more, than in theſe two points (or indeed we may ſay, bears it ſelf up on them as two main pillars) <hi>viz.</hi> Firſt, That the Civil Magiſtrate is not the proper Judge of Error or blaſphe<g ref="char:EOLhyphen"/>my. And ſecondly, That corporal puniſhment is not a proper puniſhment for offences of a ſpiritual nature, though it was uſed to the Jews for divers ſpecial Reaſons, peculiar to that Legal diſpenſation only.</p>
+            <p>2. The ſafety of the Government, which is in danger of wrath from the Almighty, for nothing ſo much or ſo ſoon, as for inva<g ref="char:EOLhyphen"/>ding the ſpiritual jurisdiction of our Lord Jeſus.</p>
+            <p>3. The Conſequence to our ſelves, who by this Rule may be pull'd out, and judged without a Law; yea judged and ſen<g ref="char:EOLhyphen"/>tenced in the higheſt condemnation as, blaſphemers, for which the preſent temper of the civil Magiſtrate ſhall cenſure to be blaſphemy.</p>
+            <p>Theſe with other Reaſons were in our eye, which we ſhall not inſiſt upon, but deſire it may ſatisfie others, that we are exceeding well ſatisfied our ſelves in bearing our teſtimony. We cannot, we dare not cry Blaſphemy with all that do ſo; We dare not throw men out of Heaven and out of our hearts, (out of all love and pity there) ſo faſt as ſome can. It is a dark and diſguiſing time, and ſcarce any one wears his own cloaths. Temptations are abroad, and there is not a Spirit to judge and diſcern them a right. They many times are accoun<g ref="char:EOLhyphen"/>ted Orthodox, who have leaſt right to it. Old <hi>Jacob</hi> muſt croſſe his hands again; but this is the ſnare in which God will take the world. And look to it, the worſt of blaſphemies is to make profeſſion of the Goſpel, and have no love.</p>
+            <p>The ſeries of our Petitions, and addreſſes in the behalf of the ſaid <hi>James Naylor,</hi> hereafter followeth.</p>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <pb n="52" facs="tcp:116509:33"/>
+                  <head>To the Parliament of the Com<g ref="char:EOLhyphen"/>mon-wealth of <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland.</hi>
+                  </head>
+                  <head>The Humble Petition of the Perſons whoſe names are underwritten.</head>
+                  <opener>Humbly ſheweth,</opener>
+                  <p>THat we are credibly informed, (from thoſe eyes that have ſeen it) that <hi>James Naylor</hi> is in a very ill and dangerous condition of body, not fit to undergo that part of your Sentence he is adjudged unto, this day; and were deſired to acquaint this Honourable Houſe ſo much, and to begg the reſpite of a week, or ſome ſmall time, as to your Wiſdom and Goodneſſe ſhall ſeem meet; That he may recover a little ſtrength before he be called forth again: Which office of cha<g ref="char:EOLhyphen"/>rity we could not refuſe, though we are not partakers with him, nor abettors of him in any thing that hath occaſioned this ſentence.
+<q>
+                        <p>Therefore ſince we believe, it is not your intent to de<g ref="char:EOLhyphen"/>ſtroy that Life, which you ſpared in your Sentence, we humbly pray an Order of Reprieve, may be granted for a few days; And it will be accepted as an Act of your Chriſtian moderation and clemency</p>
+                     </q>
+                  </p>
+                  <closer>And we ſhall pray, &amp;c.
+<signed>
+                        <list>
+                           <item>T. Z.</item>
+                           <item>J. W.</item>
+                           <item>J. S.</item>
+                           <item>C. H.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="53" facs="tcp:116509:33"/>
+The ſubſtance of the foreſaid Petition was certified to the Subſcribers by divers credible perſons; and it may further appear by a Certificate from the woman that firſt waſhed his ſtripes; a Copy whereof is here<g ref="char:EOLhyphen"/>unto annexed.</p>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <head>The Teſtimony of <hi>Rebeckah Travers,</hi> who waſhed <hi>James Naylers</hi> ſtripes, after he was whipt, as followeth.</head>
+                  <p>TO my beſt diſcerning there was not a ſpace big<g ref="char:EOLhyphen"/>ger then the breadth of a mans nail free from ſtripes and blood, from his ſhoulders near his waſte. And his right Arm was ſorely ſtriped. His hands al<g ref="char:EOLhyphen"/>ſo were ſorely hurt with the Cords, that they bled, and were ſwell'd.</p>
+                  <p>The blood and wounds of his back did very little appear at firſt ſight, by reaſon of the abundance of Dirt that covered them, till it was waſhed off.</p>
+                  <p>This I ſaw coming to him above an hour after his whipping, in all which time none had been with him, or ſent to him to look after his wounds.</p>
+                  <closer>
+                     <signed>Rebeckah Travers.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And others ſaw that he was much abuſed with horſes tread<g ref="char:EOLhyphen"/>ing on him, for the print of the nails were ſeen on his feet.</p>
+            <p>Upon reading the aforeſaid Petition, the Parliament reſpi<g ref="char:EOLhyphen"/>ted the further Execution of their Sentence upon <hi>James Nay<g ref="char:EOLhyphen"/>lor</hi> for one week, as by their Order may appear, which was, Saturday 20 <hi>Decemb.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <opener>Ordered,</opener>
+                  <p>THat the further puniſhment of <hi>James Naylor</hi> which ſhould have been on this Day, ſhall be ſuſpended till this Day ſeven night, and be executed on him then; and that the Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> do obſerve this Order ac<g ref="char:EOLhyphen"/>cordingly.</p>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="54" facs="tcp:116509:34"/>
+During which Interval, ſeveral peaceable and well-affected perſons, being ſadly ſenſible of the Conſequence of ſuch pro<g ref="char:EOLhyphen"/>ceedings, did addreſſe themſelves by Petition to the Parlia<g ref="char:EOLhyphen"/>ment, for the remitting the remaining part of the ſaid <hi>James Naylers</hi> puniſhment; a Copy whereof is under written:</p>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <head>To the Parliament of the Common-wealth of <hi>England, Scotland, and Ireland,</hi> &amp;c.</head>
+                  <argument>
+                     <p>The Humble Petition of divers peaceable and well-affected perſons in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> in behalf of themſelves and many others.</p>
+                  </argument>
+                  <opener>Sheweth,</opener>
+                  <p>THat <hi>your Moderation and Clemency in reſpiting the puniſhment of</hi> James Naylor, <hi>in conſideration of his Illneſſe of body, hath refreſhed the hearts of many thouſands in theſe Cities, altogether unconcerned in his practice; and hath opened their eyes to ſee ſomething more then the terrors of</hi> Mount Sinai, <hi>to dwell upon your Honourable Houſe; and hath likewiſe given them ſome hopes to ſee you come forth in the Spirit of our Lord Jeſus, yet more and more, to the Con<g ref="char:EOLhyphen"/>vincement of thoſe that Erre, and are out of the way.</hi>
+
+                     <q>
+                        <p>Wherefore we moſt humbly beg your pardon, that are conſtrai<g ref="char:EOLhyphen"/>ned to appear before you in ſuch a ſuit, (not daring to do otherwiſe) that you would remit the remaining part of your Sentence againſt the ſaid <hi>James Naylor,</hi> leaving him to the Lord, and to ſuch Goſpel Remedies as he hath ſancti<g ref="char:EOLhyphen"/>fied: And we are perſwaded you will find ſuch a Courſe of love and for bearance more effectuall to reclaim, and will leave a ſeal of your love and tenderneſſe upon our ſpirits.</p>
+                     </q>
+                  </p>
+                  <closer>And we ſhall pray, &amp;c.</closer>
+               </body>
+            </floatingText>
+            <p>This Petition, being preſented at the Barre of the Houſe by about one hundred perſons in the behalf of the whole, was accordingly read and debated by them: but being not likely to produce the deſired effect, the Petitioners thought themſelves bound in Duty and Conſcience to make this following addreſſe to the Lord Protector alſo,</p>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <pb n="55" facs="tcp:116509:34"/>
+                  <head>To his Highneſſe <hi>Oliver,</hi> Lord Protector of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England Scotland</hi> and <hi>Ireland,</hi> and the Domi<g ref="char:EOLhyphen"/>nions thereunto belonging.</head>
+                  <argument>
+                     <p>
+                        <hi>The humble Petition of,</hi> &amp;c.</p>
+                  </argument>
+                  <opener>Sheweth,</opener>
+                  <p>THat your Petitioners having, out of tenderneſs to the good cauſe of our ſpiritual and Civil Liberties, concerned in ſome late proceedings of the houſe of Parliament, and to the good of theſe Nations and the Government thereof, appeared in a petition to the Parliament (a Copy whereof is hereunto annexed) for the remitting the remaining puniſhment of <hi>James Naylor,</hi> which Petition is received into the houſe and reſteth there; We humbly conceive it our duty alſo, in conſideration of the Joynt Intereſt which your Highneſſe with the Parliament, hath, by the Inſtrument of Government, in the Legislative pow<g ref="char:EOLhyphen"/>er, to make our humble addreſſe and requeſt to your Highneſs,
+<q>
+                        <p>That you will be pleaſed according to all former De<g ref="char:EOLhyphen"/>clarations, and the Experience we have had of your Highneſſe care of this tender Intereſt of Liberty of conſcience, to weigh the conſequence of theſe late proceedings. And according to the 37th Article of the Inſtrument aforeſaid, and one of the grounds you de<g ref="char:EOLhyphen"/>clare upon in the war with <hi>Spain,</hi> your Highneſſe will ſtand up for the poor people of God in this day, wherein your Highneſſe will not do more right to your Petitioners, then to your ſelf and theſe Nations.</p>
+                     </q>
+                  </p>
+                  <closer>And we ſhall pray, <hi>&amp;c:</hi>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Product of which addreſſe was only ſending the fol<g ref="char:EOLhyphen"/>lowing Letter, by his Highneſſe, to the Parliament.</p>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <opener>
+                     <signed>Oliver P.</signed>
+                     <salute>RIght Truſty and Right Wellbeloved, We greet you well.</salute>
+                  </opener>
+                  <p>Having ta<g ref="char:EOLhyphen"/>ken notice of a Judgment lately given againſt one <hi>James Naylor,</hi> Al<g ref="char:EOLhyphen"/>though We deteſt and abhorre the giving or occaſioning the leaſt counte<g ref="char:EOLhyphen"/>hance to Perſons of ſuch opinions or practices, or who are under the guilt of ſuch Crimes as are commonly imputed to the ſaid Perſon; Yet we being intereſſed in the preſent Government on behalf of the people of theſe Na<g ref="char:EOLhyphen"/>tions, and not knowing how farr ſuch a proceeding (wholly without us) may extend in the Conſequence of it. We deſire that the Houſe will let us know the grounds and reaſons whereupon they have proceeded. </p>
+                  <closer>
+                     <dateline>Gi<g ref="char:EOLhyphen"/>ven at White: Hall <date>the 25th. day of <hi>Decemb.</hi> 1656.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>To our Right truſty and Right Wellbeloved Sir<g ref="char:punc">▪</g> 
+                     <hi>Thomas Widdrington,</hi> Speaker.</trailer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="56" facs="tcp:116509:35"/>
+Which Letter ocaſioning ſome debate in the Houſe, and the day for Execution of the remaining part of the Sentence drawing near, the Petitioners made a ſecond Addreſſe to his Highneſſe, <hi>in manner following.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <head>To his Highneſſe, &amp;c. The humble Petition, &amp;c.</head>
+                  <opener>Sheweth,</opener>
+                  <p>THat with great thankfulneſſe we acknowledge your Highneſſe Love to the Cauſe and People of God and their Liberties, and particularly your appearing at their requeſt by your Letter to the Parliament on their and the Nations be<g ref="char:EOLhyphen"/>behalf, as they ſeem to be concerned in the proceedings againſt <hi>James Naylor.</hi> And we deſire we may not forget, nor be unmindfull to bleſſe God that hath raiſed up your Highneſſe a Bullwark between us and oppreſſion and perſecution. And hath given you to be faithfull on all occaſions when we have applyed our ſelves unto you; that expecting the fruit of your Highneſſe Letter to the Parliament, to our grief we find no<g ref="char:EOLhyphen"/>thing is done, nor like to be done timely, but the Execution of the remaining part of the Sentence will take place, unleſſe presented by your Highneſſe.</p>
+                  <p>Wherefore your Petitioners are conſtrained again to make their humble Addreſſe to your Highneſſe, that in regard the buſineſſe will admit of no longer delay; Your Highneſſe will be pleaſed in purſuance of that claim you may juſtly make to a joynt-Intereſt, and Concern, in ſuch proceedings, to take ſuch courſe, that the intend<g ref="char:EOLhyphen"/>ed Execution to morrow, may be prevented.</p>
+                  <closer>And your Petitioners ſhall as in duty bound, pray, &amp;c.</closer>
+               </body>
+            </floatingText>
+            <p>Notwithſtanding all which, the Sentence of Parliament took place, and was Executed upon <hi>James Nayler.</hi>
+            </p>
+            <pb n="47" facs="tcp:116509:35"/>
+            <p>It is very remarkable, that theſe great ſufferings have hi<g ref="char:EOLhyphen"/>therto been endured by him with much patience and meek<g ref="char:EOLhyphen"/>neſſe; as a Lamb led to the ſlaughter he opened not his mouth. He never murmured at the heavy ſentence pronounced againſt him; nor complained againſt his adverſaries, nor of the ſeve<g ref="char:EOLhyphen"/>rity of his ſufferings; but endured them with ſo much pati<g ref="char:EOLhyphen"/>ence and quietneſs of ſpirit, as that it hath aſtoniſhed the minds of many who were eye-witneſſes thereof.</p>
+            <p>When he was before the Houſe, and they asked him con<g ref="char:EOLhyphen"/>cerning particulars of his examination before the Commit<g ref="char:EOLhyphen"/>tee, which were paſſed out of his mind, He in ſimplicity of heart, referred himſelf to his Examiners, ſaying, he thought they would not do him wrong; though divers of the Houſe were hoth his accuſers and Judges.</p>
+            <p>When they were about to pronounce the ſentence, He ſaid, He did not know his offence. The Speaker amongſt ma<g ref="char:EOLhyphen"/>ny others, gave forth theſe words, That he ſhould know his offence by his puniſhment.</p>
+            <p>And when his ſentence was pronounced againſt him, he ſhewed not the leaſt diſlike; but being denyed to have liberty to ſpeak, as he paſſed away, he uttered theſe words with meekneſſe: <hi>He that hath prepared the body, will enable me to ſuffer; and I pray, that He may not lay it to your charge.</hi>
+            </p>
+         </div>
+         <div type="narrative">
+            <head>Here followeth the Relation of <hi>W. H.</hi> touching the five Miniſters, that were with <hi>James Naylor,</hi> a little before his laſt ſuffering on the Pillory in Lon<g ref="char:EOLhyphen"/>don.</head>
+            <p>VVEdneſday the 24. of <hi>Decemb.</hi> 1656. my ſelf with others being at the Priſon with <hi>James Naylor</hi> and underſtanding that divers Miniſters were come <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Order of Parliament to conſerr with him, to<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e things for<g ref="char:punc">▪</g> which he was there <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>aine <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: and being <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>s to know the Truth of what is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> concerning <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>phemies of which he is accuſed, and or which <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> alſo the frame and temper of his Spirit <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er such g<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dings, I deſired to be preſent at the ſaid Conference. But
+<pb n="58" facs="tcp:116509:36"/>
+being denyed that Liberty by the Keeper, who told us, he was appointed by the Miniſters, to let none be preſent whilſt they were with him, one of us addreſt to the miniſters them<g ref="char:EOLhyphen"/>ſelves, who alſo denyed us, or ſo much as one of us, to be preſent. So we could not be admitted: but were turned forth. And my ſelf having buſineſſe in the City, went about the ſame. And about eight of the Clock the ſame night, go<g ref="char:EOLhyphen"/>ing through <hi>New-Gate Market,</hi> I met thoſe Miniſters in the Street; and judging they came then from <hi>James Naylor,</hi> I went directly to the priſon to know the iſſue of their meeting: and asking him concerning it (ſo near as I can remember) he told me, as followeth, <hi>viz.</hi>
+            </p>
+            <p>That he told thoſe Miniſters, he ſaw they had an intent to make him ſuffer (though innocent) as an evill doer; and therefore denyed any to be preſent that might be indifferent Judges betwixt them and him, (or words to that purpoſe.) And therefore he ſhould not ſay any thing, unleſſe, what paſſed, might be writ down, and a Coppy therefore given him to keep, or left with the Goaler, ſigned by them. Which (he ſaid) was, after ſome words, aſſented unto. And ſo they propounded ſeverall Queſtions unto him, and took his An<g ref="char:EOLhyphen"/>ſwers in writing.</p>
+            <p>And I asking him if he could remember any of the Queſtions propounded to him, he told me as followeth, <hi>(viz.)</hi>
+            </p>
+            <p>That they asked him if he was ſorry for thoſe Blaſphemies that he was guilty of; and whether he did recant, and re<g ref="char:EOLhyphen"/>nounce the ſame? To which he anſwered, What Blaſphe<g ref="char:EOLhyphen"/>mies? name them. But they not able to inſtance in any par<g ref="char:EOLhyphen"/>ticular, He replyed; Would you have me recant, and re<g ref="char:EOLhyphen"/>nounce you know not what?</p>
+            <p>They asked him, Whether he did believe there was a Je<g ref="char:EOLhyphen"/>ſus Chriſt? To which he anſwered, He did believe there was: for he had taſted of him; and that Jeſus had taken up his dwelling in his heart and ſpirit; and, for the Teſtimony of him, he now ſuffered. One of them replyed. But I believe in a Jeſus that never was in any mans heart. To which he anſwered, He knew no ſuch Chriſt; for the Chriſt he witneſſed, fills Heaven and Earth, and dwells in the Hearts of Believ<g ref="char:EOLhyphen"/>ers.</p>
+            <p>
+               <pb n="59" facs="tcp:116509:36"/>
+Again, they demanded of him why he ſuffered thoſe Wo<g ref="char:EOLhyphen"/>men &amp;c. to worſhip and adore him. To which he replyed, Bowing to the Creature, I deny: But if they behold the pow<g ref="char:EOLhyphen"/>er of Chriſt wherever it is, and bow to it, he had nothing by which he might reſiſt that, or gainſay it. And withall ſaid to the Miniſters, Have you thus long profeſſed the Scriptures, and do you now ſtumble at what they hold forth? Where<g ref="char:EOLhyphen"/>upon they deſired one inſtance of Scripture, wherein ſuch a practice was held forth. To which he anſwered. What think you of the <hi>Shunamite,</hi> in falling down at the feet of <hi>Eli<g ref="char:EOLhyphen"/>ſha,</hi> and bowing before him? Whether was the Prophet guil<g ref="char:EOLhyphen"/>ty of Blaſphemy, in not reproving her when ſhee did ſo? 2 <hi>King.</hi> 4. 27, 37. as alſo divers others in Scripture ſpoken of. Upon which they pawſing for a while, anſwered, That was but a civill act, or acknowledgment. So (ſaid he) might you in<g ref="char:EOLhyphen"/>terpret theirs alſo, if your eye were not evill, ſeeing the out<g ref="char:EOLhyphen"/>ward action is one and the ſame.</p>
+            <p>But after a while, he ſeeing them not contented with plain anſwers, but ſeeking to wreſt words out of him to their own purpoſe, in meekneſſe uttered theſe words, How ſoon have you forgot the work of the Biſhops, who are now found in the ſame, ſeeking to enſnare the innocent? Whereupon they roſe up, and with bitterneſs of ſpirit burnt all that they had before written. And ſo left him with ſome bemoaning expreſſions, rather diſcovering a prejudiced ſpirit, then real affection to the good of his ſoul.</p>
+            <p>So when they were departing he deſired of them, (as he had alſo done before) that the Parliament would ſend him ſuch Queſtions in writing, as they deſired ſatisfaction in; and give him leave to return his Anſwers in writing alſo.</p>
+            <p>Theſe (as near as I can remember) he told me, with ſome other paſſages, which I do not well remember. And hoping the whole paſſages of that meeting will be publiſht by the parties themſelves, upon conſideration of what is before men<g ref="char:EOLhyphen"/>tioned, I humbly premiſe theſe Queries following, touch<g ref="char:EOLhyphen"/>ing the Caſe of the ſaid <hi>Naylor.</hi>
+            </p>
+            <p n="1">1. Whether rationally thoſe men in that their proceeding, can be adjudged lovers of his Soul: or that act tending to the
+<pb n="60" facs="tcp:116509:37"/>
+good thereof? or not rather wholly prejudiced, and inten<g ref="char:EOLhyphen"/>ding to ſay ſnares before him?</p>
+            <p n="2">2. Whether any Nation afford the like Preſident, that four or five perſons (a mans enemies) ſhould be his exami<g ref="char:EOLhyphen"/>ners, and ſolely impower'd to report his Caſe to his Judges, not admitting, any to be preſent but themſelves, as indiffe<g ref="char:EOLhyphen"/>rent witneſſes betwixt them? If four or five of thoſe Silver<g ref="char:EOLhyphen"/>ſmiths, that made ſhrines for <hi>Diana,</hi> whoſe gain <hi>Pauls</hi> do<g ref="char:EOLhyphen"/>ctrine deſtroyed, If they had been ſent to <hi>Paul</hi> to examine him and report his Caſe to his Judges; how unequal a thing would this be accounted?</p>
+            <p n="3">3. Whether the verbal report of thoſe perſons (or if writ<g ref="char:EOLhyphen"/>ten it being done after they departed from him) ought to be received or credited as a true teſtimony; when they have burnt their Examinations<g ref="char:punc">▪</g> &amp; his Anſwers written while they were together<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not admitting them to be ſeen as they were firſt ſigned.</p>
+            <p n="4">4. Whether it were not a very reaſonable deſire of <hi>James Naylor's</hi> (as the caſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood) that Queſtions might be ſent him in writing from the Parliament, and he might have liberty to return his Anſwers in writing; for the avoiding of miſin<g ref="char:EOLhyphen"/>terpretation of his adverſaries.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
